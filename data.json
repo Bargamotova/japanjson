@@ -1,8 +1,3 @@
-PUT /echo/put/json HTTP/1.1
-Host: bargamot.com
-Accept: application/json
-Content-Type: application/json
-
 {
   "cities": [
     {

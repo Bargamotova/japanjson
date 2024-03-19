@@ -3,8 +3,8 @@
     {
       "id": "01",
       "name": "Tokyo",
-      "back": "/assets/images/bg@0.jpg",
-      "cover": "/assets/images/tokyo@1.jpg",
+      "back": "https://bargamotova.github.io/japanjson/assets/images/bg@0.jpg",
+      "cover": "https://bargamotova.github.io/japanjson/assets/images/tokyo@1.jpg",
       "description": [
         "Tokyo was formerly (until 1868) known as Edo, the name of the small fishing village that existed on the site for centuries. Edo's development into a city did not occur until the Tokugawa period (1603–1867), when it became the capital of the Tokugawa shogunate. During this period, however, the imperial family remained in Kyōto, the ancient imperial capital. With the Meiji Restoration of 1868, which ended the shogunate, the capital was moved to Edo, and the city was renamed Tokyo, meaning \"eastern capital.\" ",
         "Tokyo is home to the Tokyo Skytree, recognized by Guinness World Records as the world's largest tower. While the tower was under construction, its developers found out that the Canton Tower, built about the same time in Guangzhou, China, would be roughly the same size as the Skytree; soon thereafter, an antenna measuring some 20 metres (67 feet) tall was added to the top of the Skytree.",
@@ -15,25 +15,25 @@
           "id": "0",
           "name": "Imperial Palace East Gardens",
           "address": "1-1, Chiyoda, Chiyoda-ku, Tokyo",
-          "picture": "/assets/images/tokyoCastle@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/tokyoCastle@1.jpg",
           "description": [
             "The Imperial Palace East Gardens (Kokyo Higashi Gyoen) are the part of the official residence of the Emperor of Japan that’s opened to the public. Built on the former site of Edo Castle, the gardens contain many remnants of the former seat of power of the Tokugawa shogunate. None of the main buildings survived to the modern era, but the remaining gate entrances, walls, guardhouses, and moats are in amazing condition, giving you a glimpse into what once was the most important Japanese castle around"
           ],
           "pictures": [
-            "/assets/images/tokyoCastle@2.jpg",
-            "/assets/images/tokyoCastle@3.jpg",
-            "/assets/images/tokyoCastle@4.jpg",
-            "/assets/images/tokyoCastle@5.jpg",
-            "/assets/images/tokyoCastle@6.jpg",
-            "/assets/images/tokyoCastle@7.jpg",
-            "/assets/images/tokyoCastle@8.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/tokyoCastle@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/tokyoCastle@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/tokyoCastle@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/tokyoCastle@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/tokyoCastle@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/tokyoCastle@7.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/tokyoCastle@8.jpg"
           ]
         },
         {
           "id": "1",
           "name": "Samurai Ninja Museum",
           "address": "1 Chome-8-13, Tokyo 111-0035, Tokyo 111-0035 ",
-          "picture": "/assets/images/tokioSamurai@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/tokioSamurai@1.jpg",
           "description": [
             "The Samurai Ninja Museum Tokyo offers a captivating journey into Japan's storied past, where the lives of samurai and ninjas come alive. This extraordinary opportunity grants participants an in-depth exploration of the realm inhabited by these renowned combatants. The museum features interactive exhibitions, including hands-on samurai and ninja experiences. Visitors can try samurai armour, learn swordsmanship, and master ninja techniques like shuriken throwing and blowgun usage. It's an educational yet thrilling exploration of Japanese history, perfect for all ages. The museum educates and entertains, providing a memorable experience that brings history to life engagingly and interactively.",
             "Dress in traditional samurai garb and armour and get a sense of the strength and agility required to be a warrior. This is a perfect photo opportunity to capture your samurai moment!",
@@ -41,19 +41,19 @@
             "Test your precision and focus with our Ninja Star Throw Competition. Challenge friends or family as you learn how to throw shuriken (ninja stars) at a target, a skill vital for ninjas in their covert operations."
           ],
           "pictures": [
-            "/assets/images/tokioSamurai@2.jpg",
-            "/assets/images/tokioSamurai@3.jpg",
-            "/assets/images/tokioSamurai@4.jpg",
-            "/assets/images/tokioSamurai@5.jpg",
-            "/assets/images/tokioSamurai@6.jpg",
-            "/assets/images/tokioSamurai@7.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/tokioSamurai@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/tokioSamurai@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/tokioSamurai@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/tokioSamurai@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/tokioSamurai@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/tokioSamurai@7.jpg"
           ]
         },
         {
           "id": "2",
           "name": "The Ghibli Museum",
           "address": "1 Chome-1-83 Shimorenjaku, Mitaka, Tokyo 181-0013",
-          "picture": "/assets/images/ghibli@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/ghibli@1.jpg",
           "description": [
             "The Ghibli Museum is the animation and art museum of Miyazaki Hayao's Studio Ghibli, one of Japan's most famous animation studios. They have produced many feature length films, such as My Neighbor Totoro, Princess Mononoke, Spirited Away and Ponyo on the Cliff by the Sea.",
             "The first floor of the museum exhibits the history and techniques of animation and has a small theater which shows short movies by Studio Ghibli that are exclusive to the museum. The second floor houses special temporary exhibitions. The museum also has a cafe, children's play area, a rooftop garden and a gift shop.",
@@ -61,18 +61,18 @@
             "The first floor of the museum exhibits the history and techniques of animation and has a small theater which shows short movies by Studio Ghibli that are exclusive to the museum. The second floor houses special temporary exhibitions. The museum also has a cafe, children's play area, a rooftop garden and a gift shop."
           ],
           "pictures": [
-            "/assets/images/ghibli@2.jpg",
-            "/assets/images/ghibli@3.jpg",
-            "/assets/images/ghibli@4.jpg",
-            "/assets/images/ghibli@5.jpg",
-            "/assets/images/ghibli@6.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/ghibli@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/ghibli@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/ghibli@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/ghibli@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/ghibli@6.jpg"
           ]
         },
         {
           "id": "3",
           "name": "Sumo Practice Show",
           "address": "Ryogoku Kokugikan: 1 Chome-3-28 Yokoami,  Tokyo 130-0015",
-          "picture": "/assets/images/sumo@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/sumo@1.jpg",
           "description": [
             "Sumo is a Japanese style of heavyweight wrestling and also a national and professional sport in Japan. It started centuries ago and is believed that it is originated as a performance to entertain the Shinto deities. Since 1958, six grand sumo tournaments are held each year. Many aspects of Japan's traditional culture can be seen in sumo.",
             "Watch sumo you can from the grand tournaments that are held 6 times a year in Japan. However, only 3 of them are held in Tokyo. So, if you want to experience a professional sumo wrestling watching in Tokyo, make sure your travel dates align with the tournament period in Tokyo. For this, you need to buy tickets to be able to watch sumo wrestling.",
@@ -81,14 +81,14 @@
             " There are approximately 45 stables for sumo practice in Tokyo, mostly located in Ryogoku district. Here are some stables where you can watch Keiko that are used to foreign tourists:  \"Musashigawa Beya in Uguisudani\",\n\"Kasugano Beya near Ryogoku Station\", \n\"Takasago Beya near Asakusa Station\". "
           ],
           "pictures": [
-            "/assets/images/sumo@2.jpg",
-            "/assets/images/sumo@3.jpg",
-            "/assets/images/sumo@4.jpg",
-            "/assets/images/sumo@5.jpg",
-            "/assets/images/sumo@6.jpg",
-            "/assets/images/sumo@7.jpg",
-            "/assets/images/sumo@8.jpg",
-            "/assets/images/sumo@9.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/sumo@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/sumo@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/sumo@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/sumo@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/sumo@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/sumo@7.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/sumo@8.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/sumo@9.jpg"
           ]
         }
       ]
@@ -96,8 +96,8 @@
     {
       "id": "02",
       "name": "Nagoya",
-      "back": "/assets/images/bg@1.jpg",
-      "cover": "/assets/images/nagoya@1.jpg",
+      "back": "https://bargamotova.github.io/japanjson/assets/images/bg@1.jpg",
+      "cover": "https://bargamotova.github.io/japanjson/assets/images/nagoya@1.jpg",
       "description": [
         "Located in the center of Japan, Nagoya has been used as a filming location for many TV shows and movies based on Japanese history. Famous warlords such as Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu in the Warring States Period, were all connected to Nagoya. The history left behind from centuries before can still be seen in the temples, shrines, castles, and towns near Nagoya.",
         "The industrial sector is strongly represented in the Nagoya area including Toyota, aviation, transportation equipment, industrial machinery, robots, and fine ceramics. Aichi Prefecture, where Nagoya is located, has been number one in Japan for values of manufactured shipments every year since 1977 (as of 2018). Nagoya is often called \"the factory of Japan\". Most industries in Nagoya have a long history of automaton and ceramics predating the modern era."
@@ -107,22 +107,22 @@
           "id": "4",
           "name": "Nagoya Castle",
           "address": "Nagoya Castle, 1-1 Honmaru, Naka Ward, Nagoya, Aichi Prefecture",
-          "picture": "/assets/images/nagoyaCastle@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/nagoyaCastle@1.jpg",
           "description": [
             "The castle was built in the Edo period and was one of the castles to face a lot of damage during the 1945 air-raids. The castle is now closed for renovation which is set to be completed by the year 2022. It is said that the castle was a gift from a military governor named Imagawa Ujichika, to his son. The castle has two moats and beautiful grounds with many cherry blossoms trees. The castle is considered as one of the premium examples of Shoin architecture."
           ],
           "pictures": [
-            "/assets/images/nagoyaCastle@2.jpg",
-            "/assets/images/nagoyaCastle@3.jpg",
-            "/assets/images/nagoyaCastle@1.jpg",
-            "/assets/images/nagoyaCastle@4.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaCastle@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaCastle@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaCastle@1.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaCastle@4.jpg"
           ]
         },
         {
           "id": "5",
           "name": "Toyota Commemorative Museum",
           "address": "4 Chome-1-35 Noritakeshinmachi, Nishi Ward, Nagoya, Aichi 451-0051  ",
-          "picture": "/assets/images/nagoyaToyota@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/nagoyaToyota@1.jpg",
           "description": [
             "The TOYOTA Commemorative Museum was built utilizing the location and buildings of the test factory that Sakichi Toyoda, the founder of the Toyota Group, established in 1911 for research and development of looms.",
             "The museum is divided into two main sections. \"The Textile Machinery Pavilion,\" which introduces the textile machinery, which is the origin of Toyota, and \"The Automobile Pavilion,\" which presents the evolution of automobile technology.",
@@ -130,34 +130,34 @@
             "\"The Automobile Pavilion\" introduces Toyota's automobile manufacturing from various angles. It consists of five zones: \"The Early Years of the Automobile Business,\" \"Vehicle Development With An Eye on the Future\", \"Development Technology\", \"Production Technology,\" \"and Who is Kiichiro Toyoda\"?. The course offers a profound insight into Toyota's history and philosophy. "
           ],
           "pictures": [
-            "/assets/images/nagoyaToyota@2.jpg",
-            "/assets/images/nagoyaToyota@3.jpg",
-            "/assets/images/nagoyaToyota@4.jpg",
-            "/assets/images/nagoyaToyota@5.jpg",
-            "/assets/images/nagoyaToyota@6.jpg",
-            "/assets/images/nagoyaToyota@7.jpg",
-            "/assets/images/nagoyaToyota@8.jpg",
-            "/assets/images/nagoyaToyota@9.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaToyota@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaToyota@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaToyota@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaToyota@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaToyota@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaToyota@7.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaToyota@8.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaToyota@9.jpg"
           ]
         },
         {
           "id": "6",
           "name": "Toyokawa Inari",
           "address": "1 Toyokawa-chō, Toyokawa, Aichi Prefecture",
-          "picture": "/assets/images/nagoyaFox@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@1.jpg",
           "description": [
             "Approximately one and a half hours away from Aichi's bustling capital city, Nagoya, Toyokawa Inari (the Temple of the Fox Gods) is a stunningly serene temple located in the city of Toyokawa in eastern Aichi Prefecture, Japan. Toyokawa Inari is both a spiritual Buddhist temple and a grand Shinto Shrine. It is one of Japan’s Three Inari Temples known for its peaceful atmosphere and home to an abundance of striking fox statues scattered around the temple grounds. A trip to Toyokawa Inari will leave you feeling enlightened and renewed as you are completely immersed in tranquil Japanese nature, history and sacred temples.",
             "Toyokawa Inari is dedicated to the Inari Okami, the god(dess) of fertility, agriculture, food and rice. Visitors will often pray to Inari Okami to bring in a bountiful harvest, good fortune and prosperity in business."
           ],
           "pictures": [
-            "/assets/images/nagoyaFox@2.gpg",
-            "/assets/images/nagoyaFox@3.gpg",
-            "/assets/images/nagoyaFox@4.gpg",
-            "/assets/images/nagoyaFox@5.gpg",
-            "/assets/images/nagoyaFox@6.gpg",
-            "/assets/images/nagoyaFox@7.gpg",
-            "/assets/images/nagoyaFox@8.gpg",
-            "/assets/images/nagoyaFox@9.gpg"
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@2.gpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@3.gpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@4.gpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@5.gpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@6.gpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@7.gpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@8.gpg",
+            "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@9.gpg"
           ]
         }
       ]
@@ -165,8 +165,8 @@
     {
       "id": "03",
       "name": "Kyoto",
-      "back": "/assets/images/bg@2.jpg",
-      "cover": "/assets/images/kyoto@1.jpg",
+      "back": "https://bargamotova.github.io/japanjson/assets/images/bg@2.jpg",
+      "cover": "https://bargamotova.github.io/japanjson/assets/images/kyoto@1.jpg",
       "description": [
         "Surrounded by rich natural beauty, Kyoto is a city with a unique repertoire of compelling culture that has been refined over the past 1,200 years. Many aspects of Japanese culture originate from Kyoto and are deeply rooted in the lives of residents to this day. Tradition lives on through “machiya,” traditional wooden townhouses where residents spend modern lives today, yearly events unique to Kyoto like the famous Gion Matsuri , the culture of Kyoto's Hanamachi district where geisha live and work, and through Jizo statues (statues made of clay, bronze or stone that represent the guardian deity of children and travelers) found throughout the city. ",
         "Kyoto's tradition adds color to everyday life through Japanese food – which is generally healthy and has good nutritional balance – as well as an appreciation for tea, and flower arrangements placed tastefully in open spaces. By experiencing this kaleidoscopic culture firsthand, travelers can enjoy a deeper perspective on Kyoto and its history."
@@ -176,7 +176,7 @@
           "id": "7",
           "name": "Otagi Nenbutsu-ji Temple",
           "address": "2-5 Sagatoriimoto Fukatanicho, Ukyo-ku",
-          "picture": "/assets/images/kyotoAdashino@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/kyotoAdashino@1.jpg",
           "description": [
             "Otagi Nenbutsu-ji is a temple on the outskirts of Arashiyama with a collection of 1200 unique and whimsical statues. It's a rarely visited and interesting place that rewards the adventurous visitor.",
             "Otagi Nenbutsu-ji Temple is hidden in the hills in far western Arashiyama. It is most famous for its collection of 1200 Rakan statues that represent the disciples of the historical Buddha. These statues are a relatively recent addition to a temple, which has a long and rather unfortunate history.",
@@ -184,42 +184,42 @@
             "In 1955, the temple's fortunes began to change when a new head priest was appointed. His name was Kocho Nishimura and he began the long process of renovating the temple. Kocho Nishimura was not only a priest but an accomplished sculptor of Buddhist statues. He hit on the idea of having visitors carve their own statues for the temple under his guidance. These “rakan” statues, which represent Buddha's disciples, were all added to the temple between 1981 and 1991, but look much older as they are now fairly covered with moss. Because each statue was carved by a different person, each one is completely unique, and many have humorous expressions or whimsical poses."
           ],
           "pictures": [
-            "/assets/images/kyotoAdashino@2.jpg",
-            "/assets/images/kyotoAdashino@3.jpg",
-            "/assets/images/kyotoAdashino@4.jpg",
-            "/assets/images/kyotoAdashino@5.jpg",
-            "/assets/images/kyotoAdashino@6.jpg",
-            "/assets/images/kyotoAdashino@7.jpg",
-            "/assets/images/kyotoAdashino@8.jpg",
-            "/assets/images/kyotoAdashino@9.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoAdashino@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoAdashino@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoAdashino@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoAdashino@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoAdashino@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoAdashino@7.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoAdashino@8.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoAdashino@9.jpg"
           ]
         },
         {
           "id": "8",
           "name": "Kinkaku-ji",
           "address": "Kinkakuji-cho, Kita-ku, Kyoto 603-8361 Japan",
-          "picture": "/assets/images/kyotoKinkaku@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/kyotoKinkaku@1.jpg",
           "description": [
             "Its famous Golden Pavilion (Kinkaku)—actually a pagoda made to house the sacred relics of the Buddha—has given this temple the popular name of Kinkaku-ji (“Temple of the Golden Pavilion”), however the official name of this branch temple of the Rinzai-sect Zen temple of Shokoku-ji is Rokuon-ji. The temple was designated as a UNESCO World Heritage Site in 1994.",
             "During the Kamakura period (1185-1333), this land was the site of a villa of the aristocrat Saionji Kintsune, known as Kitayamadai. During the Muromachi period (1392-1573), however, it caught the attention of the third Ashikaga shogun Yoshimitsu (1358-1408), who took over the site from the Saionji family in order to build his own villa, which he called Kitayamadono. This complex, whose gardens and architecture focused around a central Golden Pavilion, was said to evoke paradise on earth and was the destination of such esteemed visitors as Emperor Gokomatsu (r. 1392-1412), father of the Zen priest Ikkyû. The estate also became the center of the so-called “Kitayama culture,” which was central in importing various aspects of Ming-dynasty Chinese culture into Japanese society, thanks to increased trade relations with Japan’s continental neighbor.",
             "After Yoshimitsu’s death, the villa was turned into a temple according to his will, with Musô Sôseki (also known as Musô Kokushi, 1275-1351) becoming its first abbot. The name Rokuon-ji was taken from the first two characters of Yoshimitsu’s posthumous name."
           ],
           "pictures": [
-            "/assets/images/kyotoKinkaku@2.jpg",
-            "/assets/images/kyotoKinkaku@3.jpg",
-            "/assets/images/kyotoKinkaku@4.jpg",
-            "/assets/images/kyotoKinkaku@5.jpg",
-            "/assets/images/kyotoKinkaku@6.jpg",
-            "/assets/images/kyotoKinkaku@7.jpg",
-            "/assets/images/kyotoKinkaku@8.jpg",
-            "/assets/images/kyotoKinkaku@9.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoKinkaku@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoKinkaku@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoKinkaku@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoKinkaku@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoKinkaku@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoKinkaku@7.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoKinkaku@8.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoKinkaku@9.jpg"
           ]
         },
         {
           "id": "9",
           "name": "Arashiyama and Sagano",
           "address": "Kyoto",
-          "picture": "/assets/images/kyotoArashiyama@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/kyotoArashiyama@1.jpg",
           "description": [
             "Arashiyama is a pleasant, touristy district in the western outskirts of Kyoto. The area has been a popular destination since the Heian Period (794-1185), when nobles would enjoy its natural setting. Arashiyama is particularly popular during the cherry blossom and fall color seasons.",
             "The Togetsukyo Bridge is Arashiyama's well known, central landmark. Many small shops, restaurants and other attractions are found nearby, including Tenryuji Temple, Arashiyama's famous bamboo groves and pleasure boats that are available for rent on the river.",
@@ -229,11 +229,11 @@
             "It is not possible to get lost in this bamboo grove as visitors are guided on the paved pathway. The path can be quite crowded with visitors during the days thus for those who prefer less crowd, we recommend you make your visit early in the day before the rush of tourists and visitors. "
           ],
           "pictures": [
-            "/assets/images/kyotoArashiyama@2.jpg",
-            "/assets/images/kyotoArashiyama@3.jpg",
-            "/assets/images/kyotoArashiyama@4.jpg",
-            "/assets/images/kyotoArashiyama@5.jpg",
-            "/assets/images/kyotoArashiyama@6.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoArashiyama@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoArashiyama@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoArashiyama@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoArashiyama@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kyotoArashiyama@6.jpg"
           ]
         }
       ]
@@ -241,8 +241,8 @@
     {
       "id": "04",
       "name": "Osaka",
-      "back": "/assets/images/bg@3.jpg",
-      "cover": "/assets/images/osaka@1.jpg",
+      "back": "https://bargamotova.github.io/japanjson/assets/images/bg@3.jpg",
+      "cover": "https://bargamotova.github.io/japanjson/assets/images/osaka@1.jpg",
       "description": [
         "Osaka is flashy, bright, and bustling. Osaka is at once, both a business center and a mecca of shopping centers and entertainment. Walking around in Osaka means there is never a shortage of things to do. The dazzling lights, shopping malls, delicious restaurants, and lively nightlife awaits you here.",
         "One of Japan’s economic powerhouses, Osaka has been a flourishing port since the 5th century. It was one of the earliest gateways into Japan from Korea, China, and the Asian continent beyond. These exchanges led to advancement in knowledge and technology, as well as the beginnings of Buddhism in Japan. For centuries, Osaka served as an important point between the two ancient capitals, Kyoto and Nara in addition to its role of international exchange.",
@@ -253,24 +253,24 @@
           "id": "10",
           "name": "The Osaka Castle",
           "address": "Osaka Castle, 1-1 Osakajo, Chuo Ward, Osaka, Osaka Prefecture",
-          "picture": "/assets/images/osakaCastle@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/osakaCastle@1.jpg",
           "description": [
             "The castle was erected at the site of Ishiyama Honganji temple and an erstwhile castle. Despite the heavy WWII raids, the castle got away with minor damage and has been restored to its former glory with few state-of-the-art upgrades. The castle tower even boasts of an elevator! Secondary citadels, turrets, stone walls, gates, and moat surround the castle. The Nishinomaru Garden which surrounds the western citadel is filled with around 600 cherry trees and is a favored hanami spot during the cherry festival season.",
             "Osaka castle is one of the most visited sites in Japan. Osaka Castle's construction began in 1583 and has been reconstructed and rebuilt several times throughout history. After several reconstructions, the castle is modern on the inside and somewhat museum-like. However, it still remains an important piece of Japanese history."
           ],
           "pictures": [
-            "/assets/images/osakaCastle@2.jpg",
-            "/assets/images/osakaCastle@3.jpg",
-            "/assets/images/osakaCastle@4.jpg",
-            "/assets/images/osakaCastle@5.jpg",
-            "/assets/images/osakaCastle@6.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/osakaCastle@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/osakaCastle@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/osakaCastle@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/osakaCastle@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/osakaCastle@6.jpg"
           ]
         },
         {
           "id": "11",
           "name": "Hokusetsu's Fiery Daruma Temple",
           "address": "Osaka Minoshi Aomatani 2914-1",
-          "picture": "/assets/images/daruma@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/daruma@1.jpg",
           "description": [
             "The origin of Katsuo-ji Temple dates back to the late Nara period. It is said that Zenchu and Zentaku, children of the Fujiwara family, built a hermitage in 727 where the future temple would be constructed.",
             "Later, in 765, Kaisei, a prince of Emperor Kohito, studied under Zenchu and Zentaku and entered the Buddhist school. In 775, he built Maitreya Temple, the predecessor of Katsuo-ji Temple.",
@@ -282,13 +282,13 @@
             "The above three memorial services are held daily, so those who wish to make a memorial service may first inquire at Katsuo-ji Temple.As it is famous for its prayers for winning, there is a special amulet unique to Katsuo-ji Temple called Kachi no Daruma Mamori (the Victory Daruma Charm). The temple offers more than 20 different kinds of charms and amulets."
           ],
           "pictures": [
-            "/assets/images/daruma@2.jpg",
-            "/assets/images/daruma@3.jpg",
-            "/assets/images/daruma@4.jpg",
-            "/assets/images/daruma@5.jpg",
-            "/assets/images/daruma@6.jpg",
-            "/assets/images/daruma@7.jpg",
-            "/assets/images/daruma@8.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/daruma@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/daruma@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/daruma@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/daruma@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/daruma@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/daruma@7.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/daruma@8.jpg"
           ]
         }
       ]
@@ -296,8 +296,8 @@
     {
       "id": "05",
       "name": "Nara",
-      "back": "/assets/images/bg@4.jpg",
-      "cover": "/assets/images/nara@1.jpg",
+      "back": "https://bargamotova.github.io/japanjson/assets/images/bg@4.jpg",
+      "cover": "https://bargamotova.github.io/japanjson/assets/images/nara@1.jpg",
       "description": [
         "Nara was Japan’s capital city during the years 710 to 784. Today Nara is the capital city of the Nara Prefecture and one of the most culturally significant cities in Japan with many of its temples and shrines listed as a UNESCO World Heritage Site.",
         "During Nara’s time as capital Buddhism increased it’s influence in the lives of the Japanese, and many of the largest shrines and temples in Japan were built in Nara. Today many of these huge buildings still stand and are popular tourist attractions.",
@@ -311,7 +311,7 @@
           "name": "Nara Park",
 
           "address": "Nara",
-          "picture": "/assets/images/naraPark@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/naraPark@1.jpg",
           "description": [
             "Nara Park is what many think of as \"Nara.\" Stretching over about eight square kilometers, it encompasses major sites like Todaiji Temple, Kohfukuji Temple and Kasugataisha Shrine, along with museums and almost 1,200 deer. The approach to Todaiji Temple is lined with cafes and souvenir stores, as well as rickshaws (jinrikisha) and their drivers, eager to take you on a tour of the area.",
             "There is a legend that in AD768, the first of the four gods of Kasugataisha Shrine was invited down from Kashima in Ibaraki Prefecture just North of Tokyo. The deity traveled all the way to Mt Mikasa on a white deer. Thereafter, deer were considered sacred, and killing one was punishable by death. After WWII, the deer were officially stripped of their sacred status, but are still protected in Nara.",
@@ -319,30 +319,30 @@
             "The park itself offers pleasant strolling paths with plum and cherry blossoms in the spring and beautiful multi-colored leaves in the autumn. Just outside the park, the view over Sarusawa Pond (at the top of Sanjo Dori) towards the pagoda of Kohfukuji Temple is beautiful, especially around sunset."
           ],
           "pictures": [
-            "/assets/images/naraPark@2.jpg",
-            "/assets/images/naraPark@3.jpg",
-            "/assets/images/naraPark@4.jpg",
-            "/assets/images/naraPark@5.jpg",
-            "/assets/images/naraPark@6.jpg",
-            "/assets/images/naraPark@7.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/naraPark@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/naraPark@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/naraPark@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/naraPark@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/naraPark@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/naraPark@7.jpg"
           ]
         },
         {
           "id": "13",
           "name": "Todaiji Temple",
           "address": "406-1 Zoshicho, Nara, 630-8587",
-          "picture": "/assets/images/naraTemple@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/naraTemple@1.jpg",
           "description": [
             "Todai-ji Temple, known for its \"Daibutsu-san,\" or Great Buddha, is a representative temple in Nara, with an imposing appearance of the largest wooden structure in the world. This is a famous temple of the Kegon sect and was founded by Roben.",
             "As the imperial ordinance was issued for the construction of Great Buddha, the temple was erected under national sponsorship so that the Great Buddha would be enshrined. The consecrating ceremony was held in the fourth year of the Tempyo-Shoho era (752). It took almost 40 years to complete the whole temple complex, because the temple site was gradually extended by adding more halls and pagodas.",
             "Even after the transfer of the capital to Nagaoka in the third year of the Enryaku era (784), the temple enjoyed its prosperity under the protection of successive emperors, along with the Kofuku-ji Temple. However, the temple buildings were attacked with fire by Taira-no-Shigemori in the 4th yera of the Jisho era (1180), and by the army controlled by Matsunaga Hisahide in the 10th year of the Eiroku era (1567). Many of the buildings are reconstructions of the Edo period (1603-1868). There remain a large number of noted Buddhist statues sculptured in the Nara, Heian, Fujiwara and Kamakura periods (710-1333)."
           ],
           "pictures": [
-            "/assets/images/naraTemple@2.jpg",
-            "/assets/images/naraTemple@3.jpg",
-            "/assets/images/naraTemple@4.jpg",
-            "/assets/images/naraTemple@5.jpg",
-            "/assets/images/naraTemple@6.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/naraTemple@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/naraTemple@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/naraTemple@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/naraTemple@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/naraTemple@6.jpg"
           ]
         }
       ]
@@ -350,8 +350,8 @@
     {
       "id": "06",
       "name": "Kobe",
-      "back": "/assets/images/bg@5.jpg",
-      "cover": "/assets/images/kobe@1.jpg",
+      "back": "https://bargamotova.github.io/japanjson/assets/images/bg@5.jpg",
+      "cover": "https://bargamotova.github.io/japanjson/assets/images/kobe@1.jpg",
       "description": [
         "Located between the Rokko mountain range and the Seto inland sea, the historical port city of Kobe has been embracing foreign cultures since the 9th century, giving the city a unique international flavor. Through its port, Kobe became a city of many \"Japan firsts\", and to this day, a strong international influence can be seen in the city though its unique food culture, that includes the world-famous Kobe beef and Nada sake, and an eclectic mix of Japanese and late 19th century Western architecture.",
         "Present day Kobe is home to 1.50 million people from 145 nations, and one of Asia largest medical clusters, the Kobe Biomedical Innovation Cluster. Playing host to over 370 organizations, the cluster, has given rise to cutting edge technical advancements, including the world’s most powerful supercomputer, “Fugaku,” and game changing regenerative medicine research and application using iPS cells. In the mountains, just above the city, the mineral rich waters of the Arima Hot Springs have provided a place of rest and recuperation since the 8th century. Kobe is dynamic city that combines the best of old and new Japan, with a unique international twist."
@@ -361,7 +361,7 @@
           "id": "14",
           "name": "Kobe Port",
           "address": "Kobe",
-          "picture": "/assets/images/kobePort@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/kobePort@1.jpg",
           "description": [
             "Since the 9th century, Kobe has played a critical role in shipping and trade, fostering an outward-looking spirit that encouraged the city and its people to embrace and adopt different cultures. To this day the port remians a driving force behind the city’s economic and cultural development.",
             "In 1868, Kobe became a major international trading port as one of the first ports in Japan to be opened to trade with the West, a move that turned it into an industrial powerhouse with heavy industry giants, Kawasaki and Mitsubishi calling the the city home. Although heavy industry and manufacturing is still a key part of Kobe’s economy, in the 1990s city officials began to invest in newer fields such as medical care and IT, turning it into a leading centre for technological advances and innovation.",
@@ -369,41 +369,41 @@
             "With numerous new developments currently taking place and with more on the horizon, Kobe’s port is set to remain as the city’s economic and cultural heart for many years to come."
           ],
           "pictures": [
-            "/assets/images/kobePort@2.jpg",
-            "/assets/images/kobePort@3.jpg",
-            "/assets/images/kobePort@4.jpg",
-            "/assets/images/kobePort@5.jpg",
-            "/assets/images/kobePort@6.jpg",
-            "/assets/images/kobePort@7.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/kobePort@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobePort@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobePort@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobePort@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobePort@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobePort@7.jpg"
           ]
         },
         {
           "id": "15",
           "name": "Arima Onsen",
           "address": "Kobe",
-          "picture": "/assets/images/kobeOnsen@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/kobeOnsen@1.jpg",
           "description": [
             "Arima Onsen  is a famous hot spring town within the city limits of Kobe, but on the opposite side of Mount Rokko from the city center. The town lies in a natural mountain setting, yet is close enough for Kobe and Osaka residents as an easy day trip or weekend getaway.",
             "Although Arima Onsen has a modern look today and is pretty built up, one can still find several narrow lanes and wooden buildings when strolling around the center of town. Due to its compact size, the small town can be explored entirely on foot, and there are several hot spring sources, nice temples and shrines and a small hot spring museum (200 yen) to be discovered.",
             "With a history of over one thousand years, Arima Onsen is considered one of Japan's oldest hot spring resorts and has often stood at or near the top of onsen rankings for Western Japan. The town has two types of hot spring waters which spring up at various sources around town: the Kinsen (gold water) is colored brown with iron deposits and is said to be good for skin ailments and muscle pain, while the clear Ginsen (silver water) contains radium and carbonate and is said to cure various muscle and joint ailments."
           ],
           "pictures": [
-            "/assets/images/kobeOnsen_@0.jpg",
-            "/assets/images/kobeOnsen@2.jpg",
-            "/assets/images/kobeOnsen@3.jpg",
-            "/assets/images/kobeOnsen@4.jpg",
-            "/assets/images/kobeOnsen@5.jpg",
-            "/assets/images/kobeOnsen@6.jpg",
-            "/assets/images/kobeOnsen@7.jpg",
-            "/assets/images/kobeOnsen@8.jpg",
-            "/assets/images/kobeOnsen@9.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/kobeOnsen_@0.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeOnsen@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeOnsen@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeOnsen@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeOnsen@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeOnsen@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeOnsen@7.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeOnsen@8.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeOnsen@9.jpg"
           ]
         },
         {
           "id": "16",
           "name": "Kitano-cho",
           "address": "Kobe",
-          "picture": "/assets/images/kobeKitano@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/kobeKitano@1.jpg",
           "description": [
             "Kitano-cho  is a neighborhood  that is well-known for its collection of Western-style homes that have been preserved in excellent condition. The neighborhood is also known as Kitano Ijinkan-gai. The region may be reached from the city center of Kobe quickly and easily by train or on foot, as it is situated on the northern slope of Mount Rokko.",
             "Over 30 ancient homes designed in the Western style can be found in Kitano-cho. The majority of these homes were constructed during the Meiji period, which spanned the late 19th and early 20th century. During the period that Kobe was first being used as a port for international trade, the majority of these residences were constructed by businessmen and diplomats from other countries who had relocated to the city.",
@@ -412,15 +412,15 @@
             "A wide range of businesses, boutiques, and street sellers can be found in Kitano-cho, in addition to the old residences that are located there. The neighborhood is well-known for its lively environment and is a favorite destination for tourists from all over the world, as well as from the surrounding area."
           ],
           "pictures": [
-            "/assets/images/kobeKitano_@0.jpg",
-            "/assets/images/kobeKitano@2.jpg",
-            "/assets/images/kobeKitano@3.jpg",
-            "/assets/images/kobeKitano@4.jpg",
-            "/assets/images/kobeKitano@5.jpg",
-            "/assets/images/kobeKitano@6.jpg",
-            "/assets/images/kobeKitano@7.jpg",
-            "/assets/images/kobeKitano@8.jpg",
-            "/assets/images/kobeKitano@9.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/kobeKitano_@0.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeKitano@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeKitano@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeKitano@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeKitano@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeKitano@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeKitano@7.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeKitano@8.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/kobeKitano@9.jpg"
           ]
         }
       ]
@@ -428,8 +428,8 @@
     {
       "id": "07",
       "name": "Hakodate",
-      "back": "/assets/images/bg@6.jpg",
-      "cover": "/assets/images/hakodate@1.jpg",
+      "back": "https://bargamotova.github.io/japanjson/assets/images/bg@6.jpg",
+      "cover": "https://bargamotova.github.io/japanjson/assets/images/hakodate@1.jpg",
       "description": [
         "Hakodate harbor was one of the first to open up to foreign trade after centuries of isolation and the city’s blend of traditional Japanese and 19th-century Western architecture shows influences from Russia, China and Europe. It’s cosmopolitan history is epitomized by the massive star-shaped Fort Goryokaku – a Western-style citadel turned public park that is one of Hokkaido’s top spots for cherry blossom viewing.",
         "The best time to see Hakodate is at night. Mount Hakodate, a forested mountain at the city’s southern tip, offers magical views of the city and surrounding waters below which glow with the lights of squid fishing boats. You can reach the mountain at any time of the day; by hiking, driving or cable car. ",
@@ -440,25 +440,25 @@
           "id": "17",
           "name": "Mount Hakodate Observatory",
           "address": "Hakodate, Hokkaido Prefecture",
-          "picture": "/assets/images/hakodateMount@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/hakodateMount@1.jpg",
           "description": [
             "Mt. Hakodate is a 334-meter-tall peak overlooking Hakodate that is famous for its spectacular views of the city and the bay. It offers one of Japan’s three best night views, along with Mt. Rokko in Kobe and Mt. Inasa in Nagasaki City. When the weather is clear, seeing the city lights of Hakodate with the ocean on either side can be an unforgettable experience.",
             "The sweeping view of Hakodate City and the surrounding ocean and mountains atop Mount Hakodate was enabled through the construction of the mountaintop viewing platform in 1953 and the ropeway linking the mountain’s base and summit in 1958.",
             "The night view from the mountain summit is very popular.The viewing platform has four floors. The first floor is the mountaintop station for the ropeway and the waiting lobby, the second floor has restaurants and an event hall, the third floor has a tea lounge and other spaces, and the top floor has the rooftop viewing platform. The pleasant trip on the ropeway to the top is a convenient three minutes. In addition to the ropeway, a bus connects outside JR Hakodate Station to the mountaintop (about 30 minutes), or a mountain trail can be used to climb to the summit."
           ],
           "pictures": [
-            "/assets/images/hakodateMount@2.jpg",
-            "/assets/images/hakodateMount@3.jpg",
-            "/assets/images/hakodateMount@4.jpg",
-            "/assets/images/hakodateMount@5.jpg",
-            "/assets/images/hakodateMount@6.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/hakodateMount@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/hakodateMount@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/hakodateMount@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/hakodateMount@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/hakodateMount@6.jpg"
           ]
         },
         {
           "id": "18",
           "name": "GORYOKAKU PARK",
           "address": "44-2 Goryokakucho, Hakodate, Hokkaido 040-0001",
-          "picture": "/assets/images/hakodatePark@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/hakodatePark@1.jpg",
           "description": [
             "The Goryokaku Ruins, designated as a special historic site by the national government, is Japan's first Western-style fortress. It has been developed as a park and is renowned as a cherry blossom viewing spot, where as many as 1,500 cherry trees bloom in summer. You can also get a good view of the beautiful cherry blossoms from the moat, in a rowing boat. ",
             "The cherry blossoms are lit up at night to create an enchanted atmosphere. Apart from the cherry blossoms, you can also enjoy the beautiful scenery each season, such as various flowers, red leaves, and the winter scenery. ",
@@ -466,10 +466,10 @@
             "The Hakodate Goryokaku Festival is held in May every year. It is an event where you can immerse yourself in the history of Hakodate as it relates to Goryokaku."
           ],
           "pictures": [
-            "/assets/images/hakodatePark@2.jpg",
-            "/assets/images/hakodatePark@3.jpg",
-            "/assets/images/hakodatePark@4.jpg",
-            "/assets/images/hakodatePark@5.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/hakodatePark@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/hakodatePark@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/hakodatePark@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/hakodatePark@5.jpg"
           ]
         }
       ]
@@ -477,8 +477,8 @@
     {
       "id": "08",
       "name": "Okinawa",
-      "back": "/assets/images/bg@7.jpg",
-      "cover": "/assets/images/okinawa@1.jpg",
+      "back": "https://bargamotova.github.io/japanjson/assets/images/bg@7.jpg",
+      "cover": "https://bargamotova.github.io/japanjson/assets/images/okinawa@1.jpg",
       "description": [
         "Dubbed the “Hawaii of Japan”, the eponymous main island is just one of more than 160 that make up the Okinawa prefecture – an archipelago trailing like a strand of pearls towards Taiwan. Some of the islands are inhabited, simply a slip of untouched white sand lapped by azure seas, while others are scattered with luxury resorts at the edge of pristine dive sites. Others, still, like the far-flung Yaeyama Islands, are thick with jungle, lush mangrove swamps, rivers and waterfalls.",
         "The favoured local drink is awamori – which, like sake, contains rice as its main ingredient but that’s where the similarities end. Distilled, not brewed, the local spirit packs a punch, with an alcoholic content ranging from 30 to 43 per cent. Awamori distilleries are scattered throughout the islands, Awamori distilleries are scattered throughout the islands, where you can take a tour to learn how the drink is made, then sample a glass or three. Proceed with caution.",
@@ -492,24 +492,24 @@
           "id": "19",
           "name": "Shuri Castle",
           "address": "Shuri Castle, 1 Chome-2 Shuriken Jocho, Naha, Okinawa Prefecture",
-          "picture": "/assets/images/okinawaSuri@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/okinawaSuri@1.jpg",
           "description": [
             "This ochre-red castle will welcome you in all its eye-catching glory in Okinawa. The royals of the Ryukyu Kingdom reigned from the Shuri Castle. Built in 1429, it is the largest castle on the island. A world UNESCO heritage site, the castle has labyrinthine grounds and has a replica of the King’s Crown and throne for the visitors to soak in the glory of the medieval ruling house. Visitors can glean a lot of background from the information displays along the walls of the castle especially about its maritime connections with mainland China.",
             "This ochre-red castle will welcome you in all its eye-catching glory in Okinawa. The royals of the Ryukyu Kingdom reigned from the Shuri Castle. Built in 1429, it is the largest castle on the island. A world UNESCO heritage site, the castle has labyrinthine grounds and has a replica of the King’s Crown and throne for the visitors to soak in the glory of the medieval ruling house. Visitors can glean a lot of background from the information displays along the walls of the castle especially about its maritime connections with mainland China."
           ],
           "pictures": [
-            "/assets/images/okinawaSuri@2.jpg",
-            "/assets/images/okinawaSuri@3.jpg",
-            "/assets/images/okinawaSuri@4.jpg",
-            "/assets/images/okinawaSuri@5.jpg",
-            "/assets/images/okinawaSuri@6.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaSuri@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaSuri@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaSuri@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaSuri@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaSuri@6.jpg"
           ]
         },
         {
           "id": "20",
           "name": "Churaumi Aquarium",
           "address": "424 Ishikawa Okinawa Memorial Park Ocean Expo Park, Motobu-cho, Kunigami-gun ",
-          "picture": "/assets/images/okinawaAqua@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/okinawaAqua@1.jpg",
           "description": [
             "In the Okinawan dialect, \"Chura\" means beautiful, and in Japanese, \"umi\" means ocean, or sea. Perfectly blending Japanese and Okinawan culture, the aquarium was named the Okinawa Churaumi Aquarium.",
             "The Churaumi Aquarium has many claims to fame: it has a giantic tank called the Kushiro Sea Tank, one of the largest in the world, with a whale shark and the world's first successfully bred-in-captivity manta ray. The aqaurium also boasts the first instance of multiple whale sharks in capitivity. The tank itself measures over eight meters tall and over 22 meters wide. The tank is named Kushiro because of the warm Kushiro Current, which has a huge impact on the sea life of Okinawa. ",
@@ -518,21 +518,21 @@
             "There is also a tank dedicated to deep-sea life, where mysterious organisms from 200 to 700 meters deep in the Sea of Okinawa have been bred in captivity like Ruby Snapper, Blacksail Snake Mackerel, and luminious shrimp. "
           ],
           "pictures": [
-            "/assets/images/okinawaAqua@2.jpg",
-            "/assets/images/okinawaAqua@3.jpg",
-            "/assets/images/okinawaAqua@4.jpg",
-            "/assets/images/okinawaAqua@5.jpg",
-            "/assets/images/okinawaAqua@6.jpg",
-            "/assets/images/okinawaAqua@7.jpg",
-            "/assets/images/okinawaAqua@8.jpg",
-            "/assets/images/okinawaAqua@9.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaAqua@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaAqua@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaAqua@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaAqua@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaAqua@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaAqua@7.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaAqua@8.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaAqua@9.jpg"
           ]
         },
         {
           "id": "21",
           "name": "Okinawa World & Gyokusendo Cave",
           "address": "Maekawa-1336 Tamagusuku, Nanjo, Okinawa 901-0616",
-          "picture": "/assets/images/okinawaGyokusendo@1.jpg",
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/okinawaGyokusendo@1.jpg",
           "description": [
             "The main part of Okinawa World, Kingdom Village, purports to be a reconstruction of a traditional Okinawan village, and most of the buildings are shops or workshops selling and making a variety of craft-works.",
             "You can watch artisans doing traditional weaving, paper making, pottery, processing cane sugar, glass blowing, and musical instrument making. For most of these you can try your hand at the craft, including the glass blowing.",
@@ -543,13 +543,13 @@
             "The route is along a metal walkway with guardrails and is easy and safe, though with the high humidity and moisture sections can be a little slippy. In the narrowest sections the ceiling of stalactites have been cut off to allow the headroom for people to walk through. Colored lights are used for effect to illuminate the impressive displays of thousands of stalactites and stalagmites as well as the small waterfalls and pools of water."
           ],
           "pictures": [
-            "/assets/images/okinawaGyokusendo@2.jpg",
-            "/assets/images/okinawaGyokusendo@3.jpg",
-            "/assets/images/okinawaGyokusendo@4.jpg",
-            "/assets/images/okinawaGyokusendo@5.jpg",
-            "/assets/images/okinawaGyokusendo@6.jpg",
-            "/assets/images/okinawaGyokusendo@7.jpg",
-            "/assets/images/okinawaGyokusendo@8.jpg"
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaGyokusendo@2.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaGyokusendo@3.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaGyokusendo@4.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaGyokusendo@5.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaGyokusendo@6.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaGyokusendo@7.jpg",
+            "https://bargamotova.github.io/japanjson/assets/images/okinawaGyokusendo@8.jpg"
           ]
         }
       ]
@@ -559,118 +559,118 @@
     {
       "id": "0",
       "name": "food",
-      "cover": "/assets/images/food.jpg",
-      "face": "/assets/images/food.jpg",
+      "cover": "https://bargamotova.github.io/japanjson/assets/images/food.jpg",
+      "face": "https://bargamotova.github.io/japanjson/assets/images/food.jpg",
       "title": "Traditional Food",
       "preface": "Japanese cuisine is closely related to nature, taking inspiration from the four seasons as well as from the rich selection of edible ingredients the land and the sea have to offer.Japanese culinary culture is much diverse.",
       "dishes": [
         {
           "title": " Sushi",
           "description": "The typic Japanese food; in its homeland the craft of sushi is taken to almost religious extremes, with renowned chefs training for decades and going to insane lengths to create the perfect (usually very expensive) bite. It wasn’t always such an elite craft. Japanese sushi has its roots in the street food culture of medieval Tokyo, with pieces of nigiri (a rectangular bed of vinegar-seasoned rice topped with a slice of raw fish) served up from stalls and eaten by hand.",
-          "picture": "/assets/images/sushi.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/sushi.jpg"
         },
         {
           "title": "Sashimi",
           "description": "Some Japanophiles will delight in pointing out the technical difference between sushi and sashimi if you fall into the trap of assuming they’re the same thing. Don’t let that intimidate you! Basically, sashimi is sushi without the rice. You’ll usually find it as a dish in fancy set-course meals, or as an appetizer at izakaya gastropubs.",
-          "picture": "/assets/images/sashimi.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/sashimi.jpg"
         },
         {
           "title": "Okonomiyaki ",
           "description": "The Japanese will often tell you that this griddle-fried dish is a “Japanese savory pancake,” or something along those lines, but that doesn’t quite fully describe it. Okonomiyaki is made from an egg-and-flour batter mixed with cabbage and fried. Other ingredients can also be added according to regional recipes and your personal taste (in fact, okonomi literally translates to \"preference\"). These can include pork belly, kimchi, various vegetables, and usually a topping of dried bonito fish flakes, mayonnaise, and special okonomiyaki sauce.",
-          "picture": "/assets/images/okonomiyaki.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/okonomiyaki.jpg"
         },
         {
           "title": "Miso Soup",
           "description": "A firm staple in the Japanese diet, you can find this thin soup on the menu for breakfast, lunch, and dinner. Miso soup is made from dashi stock and miso: a salty-tasting paste made from fermented soybeans and rice koji. There are four main categories of miso — white miso, red miso, blended, and barley—and dozens of regional varieties, each of which produces a distinctive soup. ",
-          "picture": "/assets/images/miso.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/miso.jpg"
         },
         {
           "title": "Yakitori",
           "description": "These reasonably-priced grilled chicken skewers are a favorite among after-work diners looking for a cheap and relaxed meal with a few beers. Step inside a yakitori restaurant and you’ll be met with the heat of burning charcoals, with chefs busy fanning away at them and arranging skewers with pretty much every piece of the chicken imaginable; from the breast and thigh to the heart, gizzard, and cartilage!",
-          "picture": "/assets/images/yakitori.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/yakitori.jpg"
         },
         {
           "title": "Udon",
           "description": "These thick wheat-flour noodles are thought to have been introduced to Japan from China around 800 years ago. Nowadays, udon is a hearty and inexpensive lunch option, usually boiled and then served with a simple broth. Kake udon features those two ingredients alone, and although it might look basic, it actually makes for a very hearty meal by itself. If you want a bit more bite, udon shops usually offer a wide range of toppings such as raw egg, tempura bits, and spring onion.",
-          "picture": "/assets/images/udon.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/udon.jpg"
         },
         {
           "title": "Takoyaki",
           "description": "These octopus-filled wheat batter balls hail from Osaka, where they were invented by a street vendor in the 1930s. The distinctive takoyaki ball shape is achieved by using a specialized pan with half-sphere indents across its surface. Flipping the batter at the right time to get the perfect ball shape takes some skill. If you think flipping pancakes is tough, try doing it two dozen times in a row — with chopsticks! The traditional style of takoyaki is topped with dried bonito flakes, dried seaweed flakes, and a special takoyaki sauce.",
-          "picture": "/assets/images/takoyaki.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/takoyaki.jpg"
         },
         {
           "title": "Soba",
           "description": "This is without a doubt one of the oldest dishes on the list, thought to have been first made in China over 6000 years ago. However, these buckwheat noodles were only popularized in Japan during the Edo period. Much more healthy and nutritious than many of the other noodle varieties, it was found that eating soba could prevent nutritional deficiencies. ",
-          "picture": "/assets/images/soba.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/soba.jpg"
         },
         {
           "title": "Sukiyaki",
           "description": "This Japanese hot pot dish is perfect for social dining, with raw beef, noodles, and vegetables cooked at your table in a shallow iron pot of boiling broth made from soy sauce, sugar, and a type of rice wine for cooking called mirin. The thin strips of beef are usually dipped in raw, beaten egg after cooking.It was invented during the Edo period, but failed to fully catch on due to strict Buddhist restrictions around meat consumption, meaning beef could only be eaten on special occasions or if you were recovering from illness. These restrictions were eventually lifted, but sukiyaki maintained its status as a treat dish for celebrations, popular for end-of-year parties among coworkers and families.",
-          "picture": "/assets/images/sukiyaki.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/sukiyaki.jpg"
         },
         {
           "title": "Unagi",
           "description": "From the early 17th century onwards, unagi was an inexpensive and common meal among the people of Japan due to the abundance of eel in the rivers and streams. Its status as a delicacy nowadays can be blamed on Japan’s insatiable appetite for this delicious fish, traditionally eaten grilled and coated with sweet and salty tare sauce. Unagi is said to give energy and vitality, so it has long been eaten on the Day of the Ox as a remedy for midsummer fatigue, and as an aphrodisiac for men.",
-          "picture": "/assets/images/unagi.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/unagi.jpg"
         },
         {
           "title": "Tofu",
           "description": "The history of this soybean curd ingredient, now a popular vegan staple, stretches back to ancient China. It’s said to have been discovered by a Chinese chef who accidentally curdled his soy milk with seaweed. There are many different types of tofu eaten across Asia, from thin noodle-like strips to huge yellow sheets, but the most common types in Japan are the white block varieties; mainly the firmly-pressed momen (literally meaning \"cotton\"), the unpressed and incredibly smooth kinu (meaning \"silk\"), and yuba (\"hot water leaf\"): thin sheets of skin formed on top of boiled soy milk.",
-          "picture": "/assets/images/TOFU.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/TOFU.jpg"
         },
         {
           "title": "Onigiri",
           "description": "The savior of many a famished salaryman, rice balls (the Japanese equivalent of a sandwich) can be found on the shelves of every convenience store—far and away the most convenient choice for a meal on the go. Onigiri are perhaps the oldest name in the Japanese snack game; as long as 2000 years ago, laborers and fishermen were known to carry pressed rice balls around in their day packs. The current form of onigiri can be traced back to the Edo period when the edible seaweed wrapping was introduced. Inside, you’ll usually find salty fish fillings, pickled plum, or more modern additions like teriyaki chicken.",
-          "picture": "/assets/images/onigiri.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/onigiri.jpg"
         },
         {
           "title": "Wagashi",
           "description": "These traditional sweets are the jewels of Japanese food culture. The wagashi (Japanese sweets) category is incredibly broad, basically referring to all regional, seasonal, and commonplace traditional Japanese sweets. Starting off in ancient times as very basic creations of mochi rice cakes (a sticky dough made from steamed and crushed rice) that were filled with nuts, these sweets evolved into ornate delicacies made to accompany the traditional matcha green tea ceremonies of the Edo period.Common types of wagashi include taiyaki (a fish-shaped pancake filled with anko or custard), dorayaki (an anko pancake sandwich), daifuku (mochi bites with various fillings), and namagashi (beautifully hand-molded rice flour and anko sweets).",
-          "picture": "/assets/images/wagashi.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/wagashi.jpg"
         },
         {
           "title": "Natto",
           "description": "Legend has it that this divisive dish was invented by accident in the 11th century when the samurai Minamoto no Yoshiie left cooked soybeans in a straw bag on his horse’s back which had fermented by the time he got around to eating them. Many people would say he just should’ve thrown them away.Natto is the Japanese equivalent of marmite—you’ll either love it or hate it. Despite its pungent smell, natto is a popular breakfast food. It’s also incredibly healthy due to the effect the bacteria has on the boiled soybeans, said to benefit heart health, digestive health, and bone strength.",
-          "picture": "/assets/images/natto.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/natto.jpg"
         },
         {
           "title": "Oden",
           "description": "This popular winter comfort food started out in the Muromachi period as a stewed tofu dish. Nowadays, other ingredients are added to the bone-warming oden broth, such as fish cakes, potatoes, boiled eggs, daikon radish, and other assorted vegetables. They’re usually simmered for several hours to infuse the ingredients with the flavor fully. The rich-yet-mild broth itself typically consists of dried bonito (skipjack tuna) flakes and dried kombu (kelp).",
-          "picture": "/assets/images/odon.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/odon.jpg"
         },
         {
           "title": "Shabu Shabu",
           "description": "This is far and away the most modern dish on the list, invented in 1952 at a restaurant in Osaka. You’d be forgiven for mistaking it for sukiyaki. After all, both of these types of Japanese food are hot pot dishes in which you cook thinly-cut beef strips alongside vegetables. There are a few key differences though. Shabu shabu is cooked in a deeper pot with a milder and more savory broth. It’s also common practice to only partially cook the meat in a shabu shabu hot pot, and raw egg isn’t used as a dipping sauce.",
-          "picture": "/assets/images/sabu.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/sabu.jpg"
         },
         {
           "title": "Tempura",
           "description": "One of the pillars of Japanese cuisine, tempura consists of pieces of fish and vegetables coated in a light egg and flour batter, and then deep-fried. The technique actually found its way to Japan via Portuguese traders who were permitted to do business with the country in the 1500s. In fact, the name even comes from the Latin tempora — a word related to the Christian fasting weeks of Lent. It quickly caught on in Japan, becoming the favorite food of the first Edo shogun, Tokugawa Ieyasu.",
-          "picture": "/assets/images/tempura.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/tempura.jpg"
         },
         {
           "title": "Ramen",
           "description": "Simply put, ramen is a Japanese noodle soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg. In Japan ramen is considered a fast food, with many small restaurants and street vendors offering a warming bowl of this delicious soup. The dish of ramen is heavily regionalism, with different variations served in different areas of Japan, although all variations are based on the same broth and noodle concept.",
-          "picture": "/assets/images/ramen.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/ramen.jpg"
         },
         {
           "title": "Tonkatsu",
           "description": "Tonkatsu was invented at a Tokyo restaurant called Rengatei in 1899, served with rice and shredded cabbage. It was originally considered a Western-style dish due to the use of pork, which the Japanese rarely ate. On top of that, the Japanese curry sauce added to make the popular katsu curry was introduced to Japan by the British via India.",
-          "picture": "/assets/images/tonkatsu.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/tonkatsu.jpg"
         },
         {
           "title": "Mochi",
           "description": "If you know anything about traditional Japanese foods, you’re definitely familiar with the chewy, bouncy, stretchy mochi. It’s a type of rice cake that takes seemingly infinite forms: from red bean-filled daifuku mochi to toasty soybean powder-dusted kinako mochi, to savory applications like pillowy mochi dumplings in ozoni (Japanese New Year soup).",
-          "picture": "/assets/images/mochi.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/mochi.jpg"
         }
       ]
     },
     {
       "id": "1",
       "name": "geisha",
-      "back": "/assets/images/bg@10.jpg",
-      "face": "/assets/images/geisha@1.jpg",
+      "back": "https://bargamotova.github.io/japanjson/assets/images/bg@10.jpg",
+      "face": "https://bargamotova.github.io/japanjson/assets/images/geisha@1.jpg",
       "title": "World of the Geisha",
       "preface": "Geishas are highly respected in Japan. The primary role of a geisha – throughout history and in the modern day – is to professionally entertain, usually at teahouses and restaurants for parties of businessmen. This entertainment encompasses a variety of traditional Japanese arts, ranging from artistic performance skills like singing, dancing, and music to cultural traditions like calligraphy, tea ceremonies, and flower arranging. Japanese geisha are also trained to play traditional instruments like the flute or three-stringed shamisen. Hospitality and social skills like conversation and hosting are also key components of being a geisha.",
       "articles": [
@@ -698,22 +698,22 @@
         "Unfortunately, there have been problems with overzealous tourists demanding photos and conversations with modern geishas in the streets of Kyoto. To protect them from harassment, the local government has banned unauthorized photography of geishas and implemented a 10,000 yen fine ($90). It’s recommended to leave a geisha alone if you see one in the street: they’re usually very busy and just trying to get home or to work! "
       ],
       "pictures": [
-        "/assets/images/geisha@1.jpg",
-        "/assets/images/geisha@2.jpg",
-        "/assets/images/geisha@3.jpg",
-        "/assets/images/geisha@4.jpg",
-        "/assets/images/geisha@5.jpg",
-        "/assets/images/geisha@6.jpg",
-        "/assets/images/geisha@7.jpg",
-        "/assets/images/geisha@8.jpg"
+        "https://bargamotova.github.io/japanjson/assets/images/geisha@1.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/geisha@2.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/geisha@3.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/geisha@4.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/geisha@5.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/geisha@6.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/geisha@7.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/geisha@8.jpg"
       ]
     },
     {
       "id": "2",
       "name": "festivals",
       "title": "Japanese Festivals",
-      "cover": "/assets/images/danceBg.jpg",
-      "face": "/assets/images/aomori,.jpg",
+      "cover": "https://bargamotova.github.io/japanjson/assets/images/danceBg.jpg",
+      "face": "https://bargamotova.github.io/japanjson/assets/images/aomori,.jpg",
       "preface": "The Japanese word “matsuri” means festival and is derived from “to enshrine.” The focus was usually to offer something to the gods, and these gods are deeply entwined with the origins of Japanese festivals. Although Japanese festivals vary from region to region, every matsuri is a community-wide event and an opportunity to proudly display and preserve local traditions. In the past, the celebrations served as either thanksgiving to the gods for prosperity, or a request to them for a bountiful harvest or to ward away natural disasters. Today, Japan’s festivals enable visitors to witness ancient rituals, performances and lively participation by local residents.",
       "festivals": [
         {
@@ -722,7 +722,7 @@
             "The “Nagahama Hikiyama Festival” is a spring festival that began in Nagahama of Shiga Prefecture during the Edo period (1603-1868 CE), and is now a UNESCO Intangible Cultural Heritage (ICH). Every year in April from the 9th~17th, crowds gather to see the hikiyama be paraded around town, in addition to a variety of events being held. Hikiyama is a type float pulled manually with ropes that is utilized in festivals, and Nagahama’s hikiyama are full of carvings and metal decorations that were common in the Edo period. This has led to the festival being called “The Moving Art Gallery.” On the float stages, “Children’s Kabuki” is performed, and along with the extravagant ornamentation used, the Nagahama Hikiyama Festival is a fine example of Japan’s distinguished and stunning festivals. Children’s Kabuki will take place the evening of the 13th, morning of the 14th, and throughout the 15th and 16th."
           ],
           "date": "April 9th–17th",
-          "picture": "/assets/images/nagahama.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/nagahama.jpg"
         },
         {
           "title": "Hakata Dontaku",
@@ -732,7 +732,7 @@
             "Closing out the two-day festival are rousing renditions of the Dontaku dance that the festival's spectators are invited to participate in. Get involved and dance the night away."
           ],
           "date": "May 3rd-4th",
-          "picture": "/assets/images/hakata.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/hakata.jpg"
         },
         {
           "title": "Sanja Matsuri",
@@ -744,7 +744,7 @@
             "Therefore, Asakusa Shrine is also referred to as Sanja (three shrines), and the festivities held here are called Sanja Matsuri."
           ],
           "date": "May 20th-21st",
-          "picture": "/assets/images/sanja.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/sanja.jpg"
         },
         {
           "title": "Gion Matsuri",
@@ -752,7 +752,7 @@
             "Gion Matsuri is undoubtedly one of Japan’s most famous and historic festivals. Held annually in Kyoto, this month-long extravaganza in July dates back to the 9th century. The festival’s highlight is the grand procession of elaborately decorated floats, known as Yamaboko Junko, which takes place on the 17th of July. The floats are divided into two types: hoko and yama each featuring intricate carvings, beautiful tapestries, and musicians playing traditional Japanese instruments. Visitors can also enjoy various traditional performing arts throughout the festival, including geisha dances and tea ceremonies."
           ],
           "date": "June",
-          "picture": "/assets/images/gion.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/gion.jpg"
         },
         {
           "title": "Sapporo Summer ",
@@ -760,7 +760,7 @@
             "Hokkaido’s Sapporo Summer Festival spans from late July to mid-August, offering a huge variety of exciting events and activities. The festival's main attraction is the Odori Beer Garden, where visitors can indulge in ice-cold beer and delicious Hokkaido cuisine under the open sky. The event also features a massive Bon Odori dance celebration, with thousands of participants dancing in unison to traditional Japanese music."
           ],
           "date": "July-August",
-          "picture": "/assets/images/sapporosummer.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/sapporosummer.jpg"
         },
         {
           "title": "Aomori Nebuta ",
@@ -768,7 +768,7 @@
             "Every August, the city of Aomori comes alive with the vibrant Aoomori Nebuta Matsuri. This week-long long event, beginning at the start of August, showcases massive, illuminated floats called nebuta which are paraded through the streets by a team of enthusiastic participants. Each float depicts mythological and historical figures, designed with intricate wireframes and covered in colorful washi paper. The festival culminates in a spectacular fireworks display over Aomori Bay, making it a must-see event for any summer traveler."
           ],
           "date": "August",
-          "picture": "/assets/images/aomori.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/aomori.jpg"
         },
         {
           "title": "Gujo Odori",
@@ -776,7 +776,7 @@
             "Gujo Odori, held in the charming town of Gujo Hachiman in Gifu Prefecture, is a traditional dance festival dating back over 400 years. The event takes place over 31 nights between the months of July and September, with participants donning colorful yukata and dancing through the streets. The most famous nights, called Tetsuya Odori, are all-night dance marathons which are held in mid-August. Visitors can enjoy the serene atmosphere of the town’s canals and historic streets during their visit."
           ],
           "date": "July-September",
-          "picture": "/assets/images/odori.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/odori.jpg"
         },
 
         {
@@ -785,7 +785,7 @@
             "One of the top 3 lantern festivals in Japan, the Nihonmatsu Lantern Festival is a sight to behold. First held more than 370 years ago, the festival was created by the lord ruling over the area at the time who wanted to forge a bond with and between the locals through religion by throwing a Shinto festival that everyone could attend. With a feverish passion, 7 tall festival floats lit up with dozens of candles inside red lanterns are carried through the streets of Nihonmatsu, Fukushima Prefecture. The teams of carriers, steerers, and musicians work together to safely run the floats through the streets while enthusiastic onlookers cheer with them. It’s easy to get carried away with them in the contagiously fun atmosphere!"
           ],
           "date": "October 7th-9th",
-          "picture": "/assets/images/nihonmatsu.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/nihonmatsu.jpg"
         },
         {
           "title": "Nagasaki Kunchi",
@@ -793,7 +793,7 @@
             "Boasting a lively carnivalesque atmosphere, the Nagasaki Kunchi Festival in Nagasaki prefecture has been celebrating the city’s multicultural history for more than 400 years. There are energetic dances, floats featuring dragons and lions, and Dutch and Chinese ships symbolizing the trade with foreign countries during the Edo period when only people from the Netherlands and China were allowed to trade with Japan. The festival’s focal points are Suwa Shrine, the Otabijo Stage, Yasaka Shrine, and the Kokaidomae Plaza. Be prepared for large crowds as nearly all residents of Nagasaki plus many visitors from other regions flock to this festival every year to join in on the fun."
           ],
           "date": "October 7th-9th",
-          "picture": "/assets/images/kunchi.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/kunchi.jpg"
         },
         {
           "title": "Karatsu Kunchi",
@@ -801,7 +801,7 @@
             "Karatsu Kunchi is a festival representative of Saga prefecture. It is held annually on the first week of November, and was designated as an UNESCO Intangible Cultural Heritage. The festival dates back to the late 16th century, and began as a spiritual event at Karatsu Shrine. The main spectacle of Karatsu Kunchi is the 14 hikiyama, or floats, that are made in the shape of animals such as lions and sea breams. The hikiyama are carried throughout the town along to the beat of flutes and drums."
           ],
           "date": "November 2th-4th",
-          "picture": "/assets/images/karatsu.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/karatsu.jpg"
         },
         {
           "title": "Chichibu Night",
@@ -811,7 +811,7 @@
             "December 2 plays host to the Yoimiya (festival-eve vigil), where some of the main floats come out and are paraded around town. December 3 is the main festival when all the floats are brought out (including some weighing over 20 tons) and the streets are filled with the joyous sounds of yatai-bayashi, instrumental music accompanied by taiko drums. On top of it all, fireworks will be going off overhead, making this event a must-see for any traveler."
           ],
           "date": "December 2th-3th",
-          "picture": "/assets/images/chichibu.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/chichibu.jpg"
         },
         {
           "title": "Yokote Snow",
@@ -821,7 +821,7 @@
             "Across the grounds of Yokote Minami Elementary School and Janosaki River Beach are rows of miniature kamakura illuminating the dark winter roads with their beautiful light and warmth."
           ],
           "date": "February 15th–16th",
-          "picture": "/assets/images/yokote.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/yokote.jpg"
         },
         {
           "title": "Somin-sai",
@@ -832,7 +832,7 @@
             "This ritual, which takes place in the sub-zero and cold snow, leaves a sacred and primitive atmosphere. It is recommended for advanced people who want to touch the essence of a more stoic festival."
           ],
           "date": "Late of January to early of February",
-          "picture": "/assets/images/somin.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/somin.jpg"
         },
         {
           "title": "Sapporo Snow",
@@ -842,7 +842,7 @@
             "Since the festival takes place in the heart of Sapporo, you can see some of the city’s sights at the same time, with the Sapporo Beer Museum, famed clock tower and markets galore, not to mention exploring Sapporo’s incredible food scene."
           ],
           "date": "February",
-          "picture": "/assets/images/sapporo.jpg"
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/sapporo.jpg"
         }
       ]
     },
@@ -850,8 +850,8 @@
       "id": "3",
       "name": "ninja",
       "title": "Secret world of Ninja",
-      "cover": "/assets/images/ninja@1.jpg",
-      "face": "/assets/images/ninja@1.jpg",
+      "cover": "https://bargamotova.github.io/japanjson/assets/images/ninja@1.jpg",
+      "face": "https://bargamotova.github.io/japanjson/assets/images/ninja@1.jpg",
       "preface": "The silent, black-clad ninja who spies, sabotages and assassinates—without leaving a trace—remains a popular Japanese character in modern books and films. It has loosely inspired pop-culture phenomena ranging from Teenage Mutant Ninja Turtles to the American Ninja Warrior. But facts about ninja history can be just as elusive as the iconic fighters themselves.",
       "articles": [
         "Ninja (忍者, aka shinobi, meaning \"those who act in stealth\") were a type of warrior who specialized in unconventional warfare such as infiltration, sabotage and assassination during the age of the samurai. Ninja employed deception and forgery tactics to take opponents out by surprise. Due to their unorthodox methods, which contradicted the way of the warrior (bushido), the ninja were not credited with the same honor as the samurai.",
@@ -861,18 +861,18 @@
         "Once peace was established in the 17th century, the ninja were mainly employed by the Tokugawa Shogunate to spy on the various regional lords and to guard Edo Castle. During these times, the ninja became greatly romanticized in popular culture, such as kabuki, which led to inaccuracies in the common perception of them. The stereotypes were subsequently exported to the West and further developed to entertain audiences there."
       ],
       "pictures": [
-        "/assets/images/ninja@2.jpg",
-        "/assets/images/ninja@3.jpg",
-        "/assets/images/ninja@4.jpg",
-        "/assets/images/ninja@5.jpg"
+        "https://bargamotova.github.io/japanjson/assets/images/ninja@2.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/ninja@3.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/ninja@4.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/ninja@5.jpg"
       ]
     },
     {
       "id": "4",
       "name": "samurai",
       "title": "Brave Samurai",
-      "back": "/assets/images/samurai@1.jpg",
-      "face": "/assets/images/samurai@2.jpg",
+      "back": "https://bargamotova.github.io/japanjson/assets/images/samurai@1.jpg",
+      "face": "https://bargamotova.github.io/japanjson/assets/images/samurai@2.jpg",
       "preface": "The samurai (or bushi) were the warriors of premodern Japan. They later made up the ruling military class which eventually became the highest ranking social caste of the Edo Period (1603-1867). Samurai employed a range of weapons such as bows and arrows, spears and guns, but their main weapon and symbol was the sword.Samurai were supposed to lead their lives according to the ethic code of bushido (the way of the warrior). Strongly Confucian in nature, bushido stressed concepts such as loyalty to one's master, self discipline and respectful, ethical behavior. Many samurai were also drawn to the teachings and practices of Zen Buddhism.",
       "articles": [
         "The samurai (or bushi) were the warriors of premodern Japan. They later made up the ruling military class which eventually became the highest ranking social caste of the Edo Period (1603-1867). Samurai employed a range of weapons such as bows and arrows, spears and guns, but their main weapon and symbol was the sword.",
@@ -884,9 +884,9 @@
         "Relative peace prevailed during the roughly 250 years of the Edo Period. As a result, the importance of martial skills declined, and many samurai became bureaucrats, teachers or artists. Japan's feudal era eventually came to an end in 1868, and the samurai class was abolished a few years afterwards."
       ],
       "pictures": [
-        "/assets/images/samurai@2.jpg",
-        "/assets/images/samurai@3.jpg",
-        "/assets/images/samurai@4.jpg"
+        "https://bargamotova.github.io/japanjson/assets/images/samurai@2.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/samurai@3.jpg",
+        "https://bargamotova.github.io/japanjson/assets/images/samurai@4.jpg"
       ]
     }
   ]

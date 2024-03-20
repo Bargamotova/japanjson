@@ -1,337 +1,335 @@
-{
-  "topics": [
-    {
-      "id": "0",
-      "name": "food",
-      "cover": "https://bargamotova.github.io/japanjson/assets/images/food.jpg",
-      "face": "https://bargamotova.github.io/japanjson/assets/images/food.jpg",
-      "title": "Traditional Food",
-      "preface": "Japanese cuisine is closely related to nature, taking inspiration from the four seasons as well as from the rich selection of edible ingredients the land and the sea have to offer.Japanese culinary culture is much diverse.",
-      "dishes": [
-        {
-          "title": " Sushi",
-          "description": "The typic Japanese food; in its homeland the craft of sushi is taken to almost religious extremes, with renowned chefs training for decades and going to insane lengths to create the perfect (usually very expensive) bite. It wasn’t always such an elite craft. Japanese sushi has its roots in the street food culture of medieval Tokyo, with pieces of nigiri (a rectangular bed of vinegar-seasoned rice topped with a slice of raw fish) served up from stalls and eaten by hand.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/sushi.jpg"
-        },
-        {
-          "title": "Sashimi",
-          "description": "Some Japanophiles will delight in pointing out the technical difference between sushi and sashimi if you fall into the trap of assuming they’re the same thing. Don’t let that intimidate you! Basically, sashimi is sushi without the rice. You’ll usually find it as a dish in fancy set-course meals, or as an appetizer at izakaya gastropubs.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/sashimi.jpg"
-        },
-        {
-          "title": "Okonomiyaki ",
-          "description": "The Japanese will often tell you that this griddle-fried dish is a “Japanese savory pancake,” or something along those lines, but that doesn’t quite fully describe it. Okonomiyaki is made from an egg-and-flour batter mixed with cabbage and fried. Other ingredients can also be added according to regional recipes and your personal taste (in fact, okonomi literally translates to \"preference\"). These can include pork belly, kimchi, various vegetables, and usually a topping of dried bonito fish flakes, mayonnaise, and special okonomiyaki sauce.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/okonomiyaki.jpg"
-        },
-        {
-          "title": "Miso Soup",
-          "description": "A firm staple in the Japanese diet, you can find this thin soup on the menu for breakfast, lunch, and dinner. Miso soup is made from dashi stock and miso: a salty-tasting paste made from fermented soybeans and rice koji. There are four main categories of miso — white miso, red miso, blended, and barley—and dozens of regional varieties, each of which produces a distinctive soup. ",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/miso.jpg"
-        },
-        {
-          "title": "Yakitori",
-          "description": "These reasonably-priced grilled chicken skewers are a favorite among after-work diners looking for a cheap and relaxed meal with a few beers. Step inside a yakitori restaurant and you’ll be met with the heat of burning charcoals, with chefs busy fanning away at them and arranging skewers with pretty much every piece of the chicken imaginable; from the breast and thigh to the heart, gizzard, and cartilage!",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/yakitori.jpg"
-        },
-        {
-          "title": "Udon",
-          "description": "These thick wheat-flour noodles are thought to have been introduced to Japan from China around 800 years ago. Nowadays, udon is a hearty and inexpensive lunch option, usually boiled and then served with a simple broth. Kake udon features those two ingredients alone, and although it might look basic, it actually makes for a very hearty meal by itself. If you want a bit more bite, udon shops usually offer a wide range of toppings such as raw egg, tempura bits, and spring onion.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/udon.jpg"
-        },
-        {
-          "title": "Takoyaki",
-          "description": "These octopus-filled wheat batter balls hail from Osaka, where they were invented by a street vendor in the 1930s. The distinctive takoyaki ball shape is achieved by using a specialized pan with half-sphere indents across its surface. Flipping the batter at the right time to get the perfect ball shape takes some skill. If you think flipping pancakes is tough, try doing it two dozen times in a row — with chopsticks! The traditional style of takoyaki is topped with dried bonito flakes, dried seaweed flakes, and a special takoyaki sauce.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/takoyaki.jpg"
-        },
-        {
-          "title": "Soba",
-          "description": "This is without a doubt one of the oldest dishes on the list, thought to have been first made in China over 6000 years ago. However, these buckwheat noodles were only popularized in Japan during the Edo period. Much more healthy and nutritious than many of the other noodle varieties, it was found that eating soba could prevent nutritional deficiencies. ",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/soba.jpg"
-        },
-        {
-          "title": "Sukiyaki",
-          "description": "This Japanese hot pot dish is perfect for social dining, with raw beef, noodles, and vegetables cooked at your table in a shallow iron pot of boiling broth made from soy sauce, sugar, and a type of rice wine for cooking called mirin. The thin strips of beef are usually dipped in raw, beaten egg after cooking.It was invented during the Edo period, but failed to fully catch on due to strict Buddhist restrictions around meat consumption, meaning beef could only be eaten on special occasions or if you were recovering from illness. These restrictions were eventually lifted, but sukiyaki maintained its status as a treat dish for celebrations, popular for end-of-year parties among coworkers and families.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/sukiyaki.jpg"
-        },
-        {
-          "title": "Unagi",
-          "description": "From the early 17th century onwards, unagi was an inexpensive and common meal among the people of Japan due to the abundance of eel in the rivers and streams. Its status as a delicacy nowadays can be blamed on Japan’s insatiable appetite for this delicious fish, traditionally eaten grilled and coated with sweet and salty tare sauce. Unagi is said to give energy and vitality, so it has long been eaten on the Day of the Ox as a remedy for midsummer fatigue, and as an aphrodisiac for men.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/unagi.jpg"
-        },
-        {
-          "title": "Tofu",
-          "description": "The history of this soybean curd ingredient, now a popular vegan staple, stretches back to ancient China. It’s said to have been discovered by a Chinese chef who accidentally curdled his soy milk with seaweed. There are many different types of tofu eaten across Asia, from thin noodle-like strips to huge yellow sheets, but the most common types in Japan are the white block varieties; mainly the firmly-pressed momen (literally meaning \"cotton\"), the unpressed and incredibly smooth kinu (meaning \"silk\"), and yuba (\"hot water leaf\"): thin sheets of skin formed on top of boiled soy milk.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/TOFU.jpg"
-        },
-        {
-          "title": "Onigiri",
-          "description": "The savior of many a famished salaryman, rice balls (the Japanese equivalent of a sandwich) can be found on the shelves of every convenience store—far and away the most convenient choice for a meal on the go. Onigiri are perhaps the oldest name in the Japanese snack game; as long as 2000 years ago, laborers and fishermen were known to carry pressed rice balls around in their day packs. The current form of onigiri can be traced back to the Edo period when the edible seaweed wrapping was introduced. Inside, you’ll usually find salty fish fillings, pickled plum, or more modern additions like teriyaki chicken.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/onigiri.jpg"
-        },
-        {
-          "title": "Wagashi",
-          "description": "These traditional sweets are the jewels of Japanese food culture. The wagashi (Japanese sweets) category is incredibly broad, basically referring to all regional, seasonal, and commonplace traditional Japanese sweets. Starting off in ancient times as very basic creations of mochi rice cakes (a sticky dough made from steamed and crushed rice) that were filled with nuts, these sweets evolved into ornate delicacies made to accompany the traditional matcha green tea ceremonies of the Edo period.Common types of wagashi include taiyaki (a fish-shaped pancake filled with anko or custard), dorayaki (an anko pancake sandwich), daifuku (mochi bites with various fillings), and namagashi (beautifully hand-molded rice flour and anko sweets).",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/wagashi.jpg"
-        },
-        {
-          "title": "Natto",
-          "description": "Legend has it that this divisive dish was invented by accident in the 11th century when the samurai Minamoto no Yoshiie left cooked soybeans in a straw bag on his horse’s back which had fermented by the time he got around to eating them. Many people would say he just should’ve thrown them away.Natto is the Japanese equivalent of marmite—you’ll either love it or hate it. Despite its pungent smell, natto is a popular breakfast food. It’s also incredibly healthy due to the effect the bacteria has on the boiled soybeans, said to benefit heart health, digestive health, and bone strength.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/natto.jpg"
-        },
-        {
-          "title": "Oden",
-          "description": "This popular winter comfort food started out in the Muromachi period as a stewed tofu dish. Nowadays, other ingredients are added to the bone-warming oden broth, such as fish cakes, potatoes, boiled eggs, daikon radish, and other assorted vegetables. They’re usually simmered for several hours to infuse the ingredients with the flavor fully. The rich-yet-mild broth itself typically consists of dried bonito (skipjack tuna) flakes and dried kombu (kelp).",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/odon.jpg"
-        },
-        {
-          "title": "Shabu Shabu",
-          "description": "This is far and away the most modern dish on the list, invented in 1952 at a restaurant in Osaka. You’d be forgiven for mistaking it for sukiyaki. After all, both of these types of Japanese food are hot pot dishes in which you cook thinly-cut beef strips alongside vegetables. There are a few key differences though. Shabu shabu is cooked in a deeper pot with a milder and more savory broth. It’s also common practice to only partially cook the meat in a shabu shabu hot pot, and raw egg isn’t used as a dipping sauce.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/sabu.jpg"
-        },
-        {
-          "title": "Tempura",
-          "description": "One of the pillars of Japanese cuisine, tempura consists of pieces of fish and vegetables coated in a light egg and flour batter, and then deep-fried. The technique actually found its way to Japan via Portuguese traders who were permitted to do business with the country in the 1500s. In fact, the name even comes from the Latin tempora — a word related to the Christian fasting weeks of Lent. It quickly caught on in Japan, becoming the favorite food of the first Edo shogun, Tokugawa Ieyasu.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/tempura.jpg"
-        },
-        {
-          "title": "Ramen",
-          "description": "Simply put, ramen is a Japanese noodle soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg. In Japan ramen is considered a fast food, with many small restaurants and street vendors offering a warming bowl of this delicious soup. The dish of ramen is heavily regionalism, with different variations served in different areas of Japan, although all variations are based on the same broth and noodle concept.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/ramen.jpg"
-        },
-        {
-          "title": "Tonkatsu",
-          "description": "Tonkatsu was invented at a Tokyo restaurant called Rengatei in 1899, served with rice and shredded cabbage. It was originally considered a Western-style dish due to the use of pork, which the Japanese rarely ate. On top of that, the Japanese curry sauce added to make the popular katsu curry was introduced to Japan by the British via India.",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/tonkatsu.jpg"
-        },
-        {
-          "title": "Mochi",
-          "description": "If you know anything about traditional Japanese foods, you’re definitely familiar with the chewy, bouncy, stretchy mochi. It’s a type of rice cake that takes seemingly infinite forms: from red bean-filled daifuku mochi to toasty soybean powder-dusted kinako mochi, to savory applications like pillowy mochi dumplings in ozoni (Japanese New Year soup).",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/mochi.jpg"
-        }
-      ]
-    },
-    {
-      "id": "1",
-      "name": "geisha",
-      "back": "https://bargamotova.github.io/japanjson/assets/images/bg@10.jpg",
-      "face": "https://bargamotova.github.io/japanjson/assets/images/geisha@1.jpg",
-      "title": "World of the Geisha",
-      "preface": "Geishas are highly respected in Japan. The primary role of a geisha – throughout history and in the modern day – is to professionally entertain, usually at teahouses and restaurants for parties of businessmen. This entertainment encompasses a variety of traditional Japanese arts, ranging from artistic performance skills like singing, dancing, and music to cultural traditions like calligraphy, tea ceremonies, and flower arranging. Japanese geisha are also trained to play traditional instruments like the flute or three-stringed shamisen. Hospitality and social skills like conversation and hosting are also key components of being a geisha.",
-      "articles": [
-        "Geishas are highly respected in Japan. The primary role of a geisha – throughout history and in the modern day – is to professionally entertain, usually at teahouses and restaurants for parties of businessmen. This entertainment encompasses a variety of traditional Japanese arts, ranging from artistic performance skills like singing, dancing, and music to cultural traditions like calligraphy, tea ceremonies, and flower arranging. Japanese geisha are also trained to play traditional instruments like the flute or three-stringed shamisen. Hospitality and social skills like conversation and hosting are also key components of being a geisha. ",
-        "Geishas have been part of Japanese culture for centuries – though it might surprise you to learn that the first geisha were actually men. During the Edo Period, between 500-600 men were working as taikomochi, the male form of a geisha. A male geisha would advise and accompany their feudal lords while also acting as a hybrid storyteller, artist and tea ceremony host. ",
-        "Traditionally, geishas were assistants to the oiran, the collective name for Japan’s highest-ranking courtesans and elite prostitutes during the Edo period (also a time in history when prostitution was legal in Japan). Many Japanese art paintings and woodcut prints illuminate us on the flamboyant and intricate world of the 17th-century oiran, and their geisha assistants. Gradually, patrons spent more time with geishas; they were more socially accessible and didn’t cost as much when indulging in traditional dance or other traditional arts . ",
-        "By the early 1800s, the role of geisha shifted to predominantly women, and this remained constant until World War II when most women undertook factory jobs and men had little time for leisure. ",
-        "The more unsavory reputation of geishas as sex workers began around that same time. Some women already engaged in that profession advertised their services under the moniker ‘geisha girls’ when American servicemen thronged the streets of Japan. ",
-        "The word ‘geisha’ stems from the Japanese ‘gei’ (art) and ‘sha’ (person). Put together, the word literally means ‘artistic person’. People in the geisha profession are also referred to as ‘geiko’, which is the word for geisha in Kyoto dialect, the city where most of today’s geishas now reside. ",
-        "Working geishas live at the okiya, a geisha house run by a ‘mother’ who cares for the women affiliated with the establishment. Though they’re not required to spend every night there, it’s legally necessary to maintain a registration with an okiya in order to work as an established geisha. ",
-        "It’s common to hear that geishas are ‘married to the art, not to a man.’ As such, geisha are prohibited from getting married and would have to quit the profession if they want to marry. They’re also not allowed to have boyfriends, which can make the job less desirable for many women. That said, many patrons will develop an affection for a particular geisha. This level of connection may be sufficient for some women to remain working as a geisha throughout their adult life. There is no specific retirement age for geisha, so if they don’t want to marry, they can continue being a geisha throughout their lives. ",
-        "Conversely, despite being unable to marry, it’s still acceptable for geishas to have children – and it’s relatively common. The fathers are often not in the picture though, thanks to the rule mentioned above.",
-        "There are two types of geishas: a maiko (geisha-in-training) and a geiko (official geisha). Becoming a geisha takes at least six years of training, during which they learn various skills and complete several stages that introduce them to geisha life. So, what is a maiko exactly? Read on and find out!",
-        "Maiko training typically begins at around 14-15 years old for a woman. Young girls start by attending a geisha house or training school (also called okiya) and participating in the Shikomi training period. Lasting anywhere from a few months to a year, Shikomi introduces the girls to basic tasks and chores, teaches them how to wear kimono, and provides lessons in music and dance. Instead of traditional kimono, they wear normal clothing during this stage.",
-        "The Minarai stage comes next, where a younger geisha can learn by observation while watching their elders entertain guests at parties and functions. After this stage, they each have a Misedashi ceremony and debut as a maiko officially, which precipitates an apprenticeship of around five years. ",
-        "There is no official test for maiko to become a geiko. Instead, those in charge at the training school decide who is ready for this change in status. There is a ceremony called the ‘Turning of the Collar’ to recognize the importance of a maiko’s graduation, where her kimono collar changes from a white one with red embroidery to a pure white collar. This is the more demure outfit of an official geisha.",
-        "Geisha are renowned for their white powdered faces, similar to the powder foundation used by kabuki actors. Known as oshiroi, this powder is mixed with water to form a paste. Once the geisha has applied a thick oily wax base called abura to her face, she uses a wide flat hake brush to cover her skin with the oshiroi powder. ",
-        "Though the face is painted in white, the neck is left bare, aside from two lines painted on the back of the neck. That’s because the neck is regarded as an erotic part of the body, so the contrast of white paint and bare skin is particularly evocative. The two lines also indicate that her makeup is akin to a mask. ",
-        "Black eyeliner and mascara are worn, along with a paste (tsubushi) that’s laid onto the eyebrows so red pigment can be added. Some geishas will shave their eyebrows off entirely to draw on smoother versions instead. Bright red lipstick, called beni, creates a flower bud effect on the lips. It’s also used as a pink contour on cheeks and at the outside corner of both eyes. Hairstyles can change depending on the geisha’s rank, and might involve using hair combs, pins, barrettes and fabric flowers to help create intricate and recognizable designs. ",
-        "In order to maintain their intricate and elaborate hairstyle, a geisha would sleep using a special pillow with a hole in the middle, called a taka-makura. Translated as ‘tall pillow,’ this was more of a support stand than a pillow, and couldn't have been particularly comfortable!",
-        "Nowadays, many geishas wear professionally designed wigs, known as katsura and made from real human hair, though maikos are more likely to have intricate styles created in their own hair. ",
-        "Geishas wear a modest kimono, usually made from linen, silk, wool or cotton. A maiko’s kimono will have long sleeves (furisode), while a geiko’s kimono has short sleeves (tomesode).  The kimono also features patterns and motifs that may reflect the changing seasons, and can be made up of lots of layers, sometimes as many as fifteen, meaning it’s quite heavy and a little cumbersome to move around in. This also explains why geisha tend to walk at a sedate and slow pace. ",
-        "A geisha’s diet is important as it maintains their figure and affects their skin’s appearance. Geishas will typically stick to a traditional Japanese-style diet, which includes plenty of green tea for its antioxidant properties, along with rice, fish and seaweed.",
-        "Geishas do still exist, but the numbers have depleted significantly. There used to be 80,000 geishas across Japan, but today there are approximately 1,000 working geishas left, mainly congregated in Kyoto, Tokyo, Kanazawa and some other cities. However, they carry a lot of traditional Japanese culture that is important to maintain to this day. With five major geisha districts, Kyoto is still the best place to visit: plenty of tourists excitedly report catching a glimpse of an elusive geisha quietly walking down narrow alleyways.",
-        "Unfortunately, there have been problems with overzealous tourists demanding photos and conversations with modern geishas in the streets of Kyoto. To protect them from harassment, the local government has banned unauthorized photography of geishas and implemented a 10,000 yen fine ($90). It’s recommended to leave a geisha alone if you see one in the street: they’re usually very busy and just trying to get home or to work! "
-      ],
-      "pictures": [
-        "https://bargamotova.github.io/japanjson/assets/images/geisha@1.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/geisha@2.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/geisha@3.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/geisha@4.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/geisha@5.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/geisha@6.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/geisha@7.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/geisha@8.jpg"
-      ]
-    },
-    {
-      "id": "2",
-      "name": "festivals",
-      "title": "Japanese Festivals",
-      "cover": "https://bargamotova.github.io/japanjson/assets/images/danceBg.jpg",
-      "face": "https://bargamotova.github.io/japanjson/assets/images/aomori,.jpg",
-      "preface": "The Japanese word “matsuri” means festival and is derived from “to enshrine.” The focus was usually to offer something to the gods, and these gods are deeply entwined with the origins of Japanese festivals. Although Japanese festivals vary from region to region, every matsuri is a community-wide event and an opportunity to proudly display and preserve local traditions. In the past, the celebrations served as either thanksgiving to the gods for prosperity, or a request to them for a bountiful harvest or to ward away natural disasters. Today, Japan’s festivals enable visitors to witness ancient rituals, performances and lively participation by local residents.",
-      "festivals": [
-        {
-          "title": "Nagahama Hikiyama",
-          "description": [
-            "The “Nagahama Hikiyama Festival” is a spring festival that began in Nagahama of Shiga Prefecture during the Edo period (1603-1868 CE), and is now a UNESCO Intangible Cultural Heritage (ICH). Every year in April from the 9th~17th, crowds gather to see the hikiyama be paraded around town, in addition to a variety of events being held. Hikiyama is a type float pulled manually with ropes that is utilized in festivals, and Nagahama’s hikiyama are full of carvings and metal decorations that were common in the Edo period. This has led to the festival being called “The Moving Art Gallery.” On the float stages, “Children’s Kabuki” is performed, and along with the extravagant ornamentation used, the Nagahama Hikiyama Festival is a fine example of Japan’s distinguished and stunning festivals. Children’s Kabuki will take place the evening of the 13th, morning of the 14th, and throughout the 15th and 16th."
-          ],
-          "date": "April 9th–17th",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/nagahama.jpg"
-        },
-        {
-          "title": "Hakata Dontaku",
-          "description": [
-            "Japan's largest festival is held annually in Fukuoka  during a major holiday weekend in May, and attracts 30,000 participants and over two million spectators. While there have been breaks in the past, the festival is said to have originated in 1179 during the Heian period, and has continued for more than 800 years.",
-            "As well as the parades, around 30 stage areas are set up across the city that each host a wide variety of performances, along with food, drink, and game stalls. Watch for Hakata Niwaka. The masks of these comedians were said to originally used to hide the identities of those satirizing the government in open street performances.",
-            "Closing out the two-day festival are rousing renditions of the Dontaku dance that the festival's spectators are invited to participate in. Get involved and dance the night away."
-          ],
-          "date": "May 3rd-4th",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/hakata.jpg"
-        },
-        {
-          "title": "Sanja Matsuri",
-          "description": [
-            "Sanja Matsuri is an annual festival held during a weekend in mid-May at Asakusa Shrine in Asakusa, Tokyo.",
-            "The major event of Sanja Matsuri is the procession of portable mikoshi shrines on the second and third days. On the second day, you can see nearly one hundred mikoshi shrines gathering from surrounding towns, making their way toward Asakusa Shrine. On the third day, three massive mikoshi shrines depart from Asakusa Shrine and are paraded through nearby areas.",
-            "You can see the power and excitement coming from the mikoshi shrine carriers dressed in festival wear during this time.",
-            "Asakusa Shrine is said to have been built nearly 1,400 years ago. Shrines in Japan usually enshrine Japanese gods, but Asakusa Shrine enshrines Hamanari and Takenari Hinokuma, the two brothers who found the holy statue that became the deity enshrined at Sensoji Temple and Nakatomo Hajinoatai, an intellectual of the time who realized the importance of their discovery (*please note there are various versions of this story).",
-            "Therefore, Asakusa Shrine is also referred to as Sanja (three shrines), and the festivities held here are called Sanja Matsuri."
-          ],
-          "date": "May 20th-21st",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/sanja.jpg"
-        },
-        {
-          "title": "Gion Matsuri",
-          "description": [
-            "Gion Matsuri is undoubtedly one of Japan’s most famous and historic festivals. Held annually in Kyoto, this month-long extravaganza in July dates back to the 9th century. The festival’s highlight is the grand procession of elaborately decorated floats, known as Yamaboko Junko, which takes place on the 17th of July. The floats are divided into two types: hoko and yama each featuring intricate carvings, beautiful tapestries, and musicians playing traditional Japanese instruments. Visitors can also enjoy various traditional performing arts throughout the festival, including geisha dances and tea ceremonies."
-          ],
-          "date": "June",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/gion.jpg"
-        },
-        {
-          "title": "Sapporo Summer ",
-          "description": [
-            "Hokkaido’s Sapporo Summer Festival spans from late July to mid-August, offering a huge variety of exciting events and activities. The festival's main attraction is the Odori Beer Garden, where visitors can indulge in ice-cold beer and delicious Hokkaido cuisine under the open sky. The event also features a massive Bon Odori dance celebration, with thousands of participants dancing in unison to traditional Japanese music."
-          ],
-          "date": "July-August",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/sapporosummer.jpg"
-        },
-        {
-          "title": "Aomori Nebuta ",
-          "description": [
-            "Every August, the city of Aomori comes alive with the vibrant Aoomori Nebuta Matsuri. This week-long long event, beginning at the start of August, showcases massive, illuminated floats called nebuta which are paraded through the streets by a team of enthusiastic participants. Each float depicts mythological and historical figures, designed with intricate wireframes and covered in colorful washi paper. The festival culminates in a spectacular fireworks display over Aomori Bay, making it a must-see event for any summer traveler."
-          ],
-          "date": "August",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/aomori.jpg"
-        },
-        {
-          "title": "Gujo Odori",
-          "description": [
-            "Gujo Odori, held in the charming town of Gujo Hachiman in Gifu Prefecture, is a traditional dance festival dating back over 400 years. The event takes place over 31 nights between the months of July and September, with participants donning colorful yukata and dancing through the streets. The most famous nights, called Tetsuya Odori, are all-night dance marathons which are held in mid-August. Visitors can enjoy the serene atmosphere of the town’s canals and historic streets during their visit."
-          ],
-          "date": "July-September",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/odori.jpg"
-        },
+[
+  {
+    "id": "0",
+    "name": "food",
+    "cover": "https://bargamotova.github.io/japanjson/assets/images/food.jpg",
+    "face": "https://bargamotova.github.io/japanjson/assets/images/food.jpg",
+    "title": "Traditional Food",
+    "preface": "Japanese cuisine is closely related to nature, taking inspiration from the four seasons as well as from the rich selection of edible ingredients the land and the sea have to offer.Japanese culinary culture is much diverse.",
+    "dishes": [
+      {
+        "title": " Sushi",
+        "description": "The typic Japanese food; in its homeland the craft of sushi is taken to almost religious extremes, with renowned chefs training for decades and going to insane lengths to create the perfect (usually very expensive) bite. It wasn’t always such an elite craft. Japanese sushi has its roots in the street food culture of medieval Tokyo, with pieces of nigiri (a rectangular bed of vinegar-seasoned rice topped with a slice of raw fish) served up from stalls and eaten by hand.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/sushi.jpg"
+      },
+      {
+        "title": "Sashimi",
+        "description": "Some Japanophiles will delight in pointing out the technical difference between sushi and sashimi if you fall into the trap of assuming they’re the same thing. Don’t let that intimidate you! Basically, sashimi is sushi without the rice. You’ll usually find it as a dish in fancy set-course meals, or as an appetizer at izakaya gastropubs.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/sashimi.jpg"
+      },
+      {
+        "title": "Okonomiyaki ",
+        "description": "The Japanese will often tell you that this griddle-fried dish is a “Japanese savory pancake,” or something along those lines, but that doesn’t quite fully describe it. Okonomiyaki is made from an egg-and-flour batter mixed with cabbage and fried. Other ingredients can also be added according to regional recipes and your personal taste (in fact, okonomi literally translates to \"preference\"). These can include pork belly, kimchi, various vegetables, and usually a topping of dried bonito fish flakes, mayonnaise, and special okonomiyaki sauce.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/okonomiyaki.jpg"
+      },
+      {
+        "title": "Miso Soup",
+        "description": "A firm staple in the Japanese diet, you can find this thin soup on the menu for breakfast, lunch, and dinner. Miso soup is made from dashi stock and miso: a salty-tasting paste made from fermented soybeans and rice koji. There are four main categories of miso — white miso, red miso, blended, and barley—and dozens of regional varieties, each of which produces a distinctive soup. ",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/miso.jpg"
+      },
+      {
+        "title": "Yakitori",
+        "description": "These reasonably-priced grilled chicken skewers are a favorite among after-work diners looking for a cheap and relaxed meal with a few beers. Step inside a yakitori restaurant and you’ll be met with the heat of burning charcoals, with chefs busy fanning away at them and arranging skewers with pretty much every piece of the chicken imaginable; from the breast and thigh to the heart, gizzard, and cartilage!",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/yakitori.jpg"
+      },
+      {
+        "title": "Udon",
+        "description": "These thick wheat-flour noodles are thought to have been introduced to Japan from China around 800 years ago. Nowadays, udon is a hearty and inexpensive lunch option, usually boiled and then served with a simple broth. Kake udon features those two ingredients alone, and although it might look basic, it actually makes for a very hearty meal by itself. If you want a bit more bite, udon shops usually offer a wide range of toppings such as raw egg, tempura bits, and spring onion.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/udon.jpg"
+      },
+      {
+        "title": "Takoyaki",
+        "description": "These octopus-filled wheat batter balls hail from Osaka, where they were invented by a street vendor in the 1930s. The distinctive takoyaki ball shape is achieved by using a specialized pan with half-sphere indents across its surface. Flipping the batter at the right time to get the perfect ball shape takes some skill. If you think flipping pancakes is tough, try doing it two dozen times in a row — with chopsticks! The traditional style of takoyaki is topped with dried bonito flakes, dried seaweed flakes, and a special takoyaki sauce.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/takoyaki.jpg"
+      },
+      {
+        "title": "Soba",
+        "description": "This is without a doubt one of the oldest dishes on the list, thought to have been first made in China over 6000 years ago. However, these buckwheat noodles were only popularized in Japan during the Edo period. Much more healthy and nutritious than many of the other noodle varieties, it was found that eating soba could prevent nutritional deficiencies. ",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/soba.jpg"
+      },
+      {
+        "title": "Sukiyaki",
+        "description": "This Japanese hot pot dish is perfect for social dining, with raw beef, noodles, and vegetables cooked at your table in a shallow iron pot of boiling broth made from soy sauce, sugar, and a type of rice wine for cooking called mirin. The thin strips of beef are usually dipped in raw, beaten egg after cooking.It was invented during the Edo period, but failed to fully catch on due to strict Buddhist restrictions around meat consumption, meaning beef could only be eaten on special occasions or if you were recovering from illness. These restrictions were eventually lifted, but sukiyaki maintained its status as a treat dish for celebrations, popular for end-of-year parties among coworkers and families.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/sukiyaki.jpg"
+      },
+      {
+        "title": "Unagi",
+        "description": "From the early 17th century onwards, unagi was an inexpensive and common meal among the people of Japan due to the abundance of eel in the rivers and streams. Its status as a delicacy nowadays can be blamed on Japan’s insatiable appetite for this delicious fish, traditionally eaten grilled and coated with sweet and salty tare sauce. Unagi is said to give energy and vitality, so it has long been eaten on the Day of the Ox as a remedy for midsummer fatigue, and as an aphrodisiac for men.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/unagi.jpg"
+      },
+      {
+        "title": "Tofu",
+        "description": "The history of this soybean curd ingredient, now a popular vegan staple, stretches back to ancient China. It’s said to have been discovered by a Chinese chef who accidentally curdled his soy milk with seaweed. There are many different types of tofu eaten across Asia, from thin noodle-like strips to huge yellow sheets, but the most common types in Japan are the white block varieties; mainly the firmly-pressed momen (literally meaning \"cotton\"), the unpressed and incredibly smooth kinu (meaning \"silk\"), and yuba (\"hot water leaf\"): thin sheets of skin formed on top of boiled soy milk.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/TOFU.jpg"
+      },
+      {
+        "title": "Onigiri",
+        "description": "The savior of many a famished salaryman, rice balls (the Japanese equivalent of a sandwich) can be found on the shelves of every convenience store—far and away the most convenient choice for a meal on the go. Onigiri are perhaps the oldest name in the Japanese snack game; as long as 2000 years ago, laborers and fishermen were known to carry pressed rice balls around in their day packs. The current form of onigiri can be traced back to the Edo period when the edible seaweed wrapping was introduced. Inside, you’ll usually find salty fish fillings, pickled plum, or more modern additions like teriyaki chicken.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/onigiri.jpg"
+      },
+      {
+        "title": "Wagashi",
+        "description": "These traditional sweets are the jewels of Japanese food culture. The wagashi (Japanese sweets) category is incredibly broad, basically referring to all regional, seasonal, and commonplace traditional Japanese sweets. Starting off in ancient times as very basic creations of mochi rice cakes (a sticky dough made from steamed and crushed rice) that were filled with nuts, these sweets evolved into ornate delicacies made to accompany the traditional matcha green tea ceremonies of the Edo period.Common types of wagashi include taiyaki (a fish-shaped pancake filled with anko or custard), dorayaki (an anko pancake sandwich), daifuku (mochi bites with various fillings), and namagashi (beautifully hand-molded rice flour and anko sweets).",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/wagashi.jpg"
+      },
+      {
+        "title": "Natto",
+        "description": "Legend has it that this divisive dish was invented by accident in the 11th century when the samurai Minamoto no Yoshiie left cooked soybeans in a straw bag on his horse’s back which had fermented by the time he got around to eating them. Many people would say he just should’ve thrown them away.Natto is the Japanese equivalent of marmite—you’ll either love it or hate it. Despite its pungent smell, natto is a popular breakfast food. It’s also incredibly healthy due to the effect the bacteria has on the boiled soybeans, said to benefit heart health, digestive health, and bone strength.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/natto.jpg"
+      },
+      {
+        "title": "Oden",
+        "description": "This popular winter comfort food started out in the Muromachi period as a stewed tofu dish. Nowadays, other ingredients are added to the bone-warming oden broth, such as fish cakes, potatoes, boiled eggs, daikon radish, and other assorted vegetables. They’re usually simmered for several hours to infuse the ingredients with the flavor fully. The rich-yet-mild broth itself typically consists of dried bonito (skipjack tuna) flakes and dried kombu (kelp).",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/odon.jpg"
+      },
+      {
+        "title": "Shabu Shabu",
+        "description": "This is far and away the most modern dish on the list, invented in 1952 at a restaurant in Osaka. You’d be forgiven for mistaking it for sukiyaki. After all, both of these types of Japanese food are hot pot dishes in which you cook thinly-cut beef strips alongside vegetables. There are a few key differences though. Shabu shabu is cooked in a deeper pot with a milder and more savory broth. It’s also common practice to only partially cook the meat in a shabu shabu hot pot, and raw egg isn’t used as a dipping sauce.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/sabu.jpg"
+      },
+      {
+        "title": "Tempura",
+        "description": "One of the pillars of Japanese cuisine, tempura consists of pieces of fish and vegetables coated in a light egg and flour batter, and then deep-fried. The technique actually found its way to Japan via Portuguese traders who were permitted to do business with the country in the 1500s. In fact, the name even comes from the Latin tempora — a word related to the Christian fasting weeks of Lent. It quickly caught on in Japan, becoming the favorite food of the first Edo shogun, Tokugawa Ieyasu.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/tempura.jpg"
+      },
+      {
+        "title": "Ramen",
+        "description": "Simply put, ramen is a Japanese noodle soup, with a combination of a rich flavoured broth, one of a variety of types of noodle and a selection of meats or vegetables, often topped with a boiled egg. In Japan ramen is considered a fast food, with many small restaurants and street vendors offering a warming bowl of this delicious soup. The dish of ramen is heavily regionalism, with different variations served in different areas of Japan, although all variations are based on the same broth and noodle concept.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/ramen.jpg"
+      },
+      {
+        "title": "Tonkatsu",
+        "description": "Tonkatsu was invented at a Tokyo restaurant called Rengatei in 1899, served with rice and shredded cabbage. It was originally considered a Western-style dish due to the use of pork, which the Japanese rarely ate. On top of that, the Japanese curry sauce added to make the popular katsu curry was introduced to Japan by the British via India.",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/tonkatsu.jpg"
+      },
+      {
+        "title": "Mochi",
+        "description": "If you know anything about traditional Japanese foods, you’re definitely familiar with the chewy, bouncy, stretchy mochi. It’s a type of rice cake that takes seemingly infinite forms: from red bean-filled daifuku mochi to toasty soybean powder-dusted kinako mochi, to savory applications like pillowy mochi dumplings in ozoni (Japanese New Year soup).",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/mochi.jpg"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "name": "geisha",
+    "back": "https://bargamotova.github.io/japanjson/assets/images/bg@10.jpg",
+    "face": "https://bargamotova.github.io/japanjson/assets/images/geisha@1.jpg",
+    "title": "World of the Geisha",
+    "preface": "Geishas are highly respected in Japan. The primary role of a geisha – throughout history and in the modern day – is to professionally entertain, usually at teahouses and restaurants for parties of businessmen. This entertainment encompasses a variety of traditional Japanese arts, ranging from artistic performance skills like singing, dancing, and music to cultural traditions like calligraphy, tea ceremonies, and flower arranging. Japanese geisha are also trained to play traditional instruments like the flute or three-stringed shamisen. Hospitality and social skills like conversation and hosting are also key components of being a geisha.",
+    "articles": [
+      "Geishas are highly respected in Japan. The primary role of a geisha – throughout history and in the modern day – is to professionally entertain, usually at teahouses and restaurants for parties of businessmen. This entertainment encompasses a variety of traditional Japanese arts, ranging from artistic performance skills like singing, dancing, and music to cultural traditions like calligraphy, tea ceremonies, and flower arranging. Japanese geisha are also trained to play traditional instruments like the flute or three-stringed shamisen. Hospitality and social skills like conversation and hosting are also key components of being a geisha. ",
+      "Geishas have been part of Japanese culture for centuries – though it might surprise you to learn that the first geisha were actually men. During the Edo Period, between 500-600 men were working as taikomochi, the male form of a geisha. A male geisha would advise and accompany their feudal lords while also acting as a hybrid storyteller, artist and tea ceremony host. ",
+      "Traditionally, geishas were assistants to the oiran, the collective name for Japan’s highest-ranking courtesans and elite prostitutes during the Edo period (also a time in history when prostitution was legal in Japan). Many Japanese art paintings and woodcut prints illuminate us on the flamboyant and intricate world of the 17th-century oiran, and their geisha assistants. Gradually, patrons spent more time with geishas; they were more socially accessible and didn’t cost as much when indulging in traditional dance or other traditional arts . ",
+      "By the early 1800s, the role of geisha shifted to predominantly women, and this remained constant until World War II when most women undertook factory jobs and men had little time for leisure. ",
+      "The more unsavory reputation of geishas as sex workers began around that same time. Some women already engaged in that profession advertised their services under the moniker ‘geisha girls’ when American servicemen thronged the streets of Japan. ",
+      "The word ‘geisha’ stems from the Japanese ‘gei’ (art) and ‘sha’ (person). Put together, the word literally means ‘artistic person’. People in the geisha profession are also referred to as ‘geiko’, which is the word for geisha in Kyoto dialect, the city where most of today’s geishas now reside. ",
+      "Working geishas live at the okiya, a geisha house run by a ‘mother’ who cares for the women affiliated with the establishment. Though they’re not required to spend every night there, it’s legally necessary to maintain a registration with an okiya in order to work as an established geisha. ",
+      "It’s common to hear that geishas are ‘married to the art, not to a man.’ As such, geisha are prohibited from getting married and would have to quit the profession if they want to marry. They’re also not allowed to have boyfriends, which can make the job less desirable for many women. That said, many patrons will develop an affection for a particular geisha. This level of connection may be sufficient for some women to remain working as a geisha throughout their adult life. There is no specific retirement age for geisha, so if they don’t want to marry, they can continue being a geisha throughout their lives. ",
+      "Conversely, despite being unable to marry, it’s still acceptable for geishas to have children – and it’s relatively common. The fathers are often not in the picture though, thanks to the rule mentioned above.",
+      "There are two types of geishas: a maiko (geisha-in-training) and a geiko (official geisha). Becoming a geisha takes at least six years of training, during which they learn various skills and complete several stages that introduce them to geisha life. So, what is a maiko exactly? Read on and find out!",
+      "Maiko training typically begins at around 14-15 years old for a woman. Young girls start by attending a geisha house or training school (also called okiya) and participating in the Shikomi training period. Lasting anywhere from a few months to a year, Shikomi introduces the girls to basic tasks and chores, teaches them how to wear kimono, and provides lessons in music and dance. Instead of traditional kimono, they wear normal clothing during this stage.",
+      "The Minarai stage comes next, where a younger geisha can learn by observation while watching their elders entertain guests at parties and functions. After this stage, they each have a Misedashi ceremony and debut as a maiko officially, which precipitates an apprenticeship of around five years. ",
+      "There is no official test for maiko to become a geiko. Instead, those in charge at the training school decide who is ready for this change in status. There is a ceremony called the ‘Turning of the Collar’ to recognize the importance of a maiko’s graduation, where her kimono collar changes from a white one with red embroidery to a pure white collar. This is the more demure outfit of an official geisha.",
+      "Geisha are renowned for their white powdered faces, similar to the powder foundation used by kabuki actors. Known as oshiroi, this powder is mixed with water to form a paste. Once the geisha has applied a thick oily wax base called abura to her face, she uses a wide flat hake brush to cover her skin with the oshiroi powder. ",
+      "Though the face is painted in white, the neck is left bare, aside from two lines painted on the back of the neck. That’s because the neck is regarded as an erotic part of the body, so the contrast of white paint and bare skin is particularly evocative. The two lines also indicate that her makeup is akin to a mask. ",
+      "Black eyeliner and mascara are worn, along with a paste (tsubushi) that’s laid onto the eyebrows so red pigment can be added. Some geishas will shave their eyebrows off entirely to draw on smoother versions instead. Bright red lipstick, called beni, creates a flower bud effect on the lips. It’s also used as a pink contour on cheeks and at the outside corner of both eyes. Hairstyles can change depending on the geisha’s rank, and might involve using hair combs, pins, barrettes and fabric flowers to help create intricate and recognizable designs. ",
+      "In order to maintain their intricate and elaborate hairstyle, a geisha would sleep using a special pillow with a hole in the middle, called a taka-makura. Translated as ‘tall pillow,’ this was more of a support stand than a pillow, and couldn't have been particularly comfortable!",
+      "Nowadays, many geishas wear professionally designed wigs, known as katsura and made from real human hair, though maikos are more likely to have intricate styles created in their own hair. ",
+      "Geishas wear a modest kimono, usually made from linen, silk, wool or cotton. A maiko’s kimono will have long sleeves (furisode), while a geiko’s kimono has short sleeves (tomesode).  The kimono also features patterns and motifs that may reflect the changing seasons, and can be made up of lots of layers, sometimes as many as fifteen, meaning it’s quite heavy and a little cumbersome to move around in. This also explains why geisha tend to walk at a sedate and slow pace. ",
+      "A geisha’s diet is important as it maintains their figure and affects their skin’s appearance. Geishas will typically stick to a traditional Japanese-style diet, which includes plenty of green tea for its antioxidant properties, along with rice, fish and seaweed.",
+      "Geishas do still exist, but the numbers have depleted significantly. There used to be 80,000 geishas across Japan, but today there are approximately 1,000 working geishas left, mainly congregated in Kyoto, Tokyo, Kanazawa and some other cities. However, they carry a lot of traditional Japanese culture that is important to maintain to this day. With five major geisha districts, Kyoto is still the best place to visit: plenty of tourists excitedly report catching a glimpse of an elusive geisha quietly walking down narrow alleyways.",
+      "Unfortunately, there have been problems with overzealous tourists demanding photos and conversations with modern geishas in the streets of Kyoto. To protect them from harassment, the local government has banned unauthorized photography of geishas and implemented a 10,000 yen fine ($90). It’s recommended to leave a geisha alone if you see one in the street: they’re usually very busy and just trying to get home or to work! "
+    ],
+    "pictures": [
+      "https://bargamotova.github.io/japanjson/assets/images/geisha@1.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/geisha@2.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/geisha@3.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/geisha@4.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/geisha@5.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/geisha@6.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/geisha@7.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/geisha@8.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "festivals",
+    "title": "Japanese Festivals",
+    "cover": "https://bargamotova.github.io/japanjson/assets/images/danceBg.jpg",
+    "face": "https://bargamotova.github.io/japanjson/assets/images/aomori,.jpg",
+    "preface": "The Japanese word “matsuri” means festival and is derived from “to enshrine.” The focus was usually to offer something to the gods, and these gods are deeply entwined with the origins of Japanese festivals. Although Japanese festivals vary from region to region, every matsuri is a community-wide event and an opportunity to proudly display and preserve local traditions. In the past, the celebrations served as either thanksgiving to the gods for prosperity, or a request to them for a bountiful harvest or to ward away natural disasters. Today, Japan’s festivals enable visitors to witness ancient rituals, performances and lively participation by local residents.",
+    "festivals": [
+      {
+        "title": "Nagahama Hikiyama",
+        "description": [
+          "The “Nagahama Hikiyama Festival” is a spring festival that began in Nagahama of Shiga Prefecture during the Edo period (1603-1868 CE), and is now a UNESCO Intangible Cultural Heritage (ICH). Every year in April from the 9th~17th, crowds gather to see the hikiyama be paraded around town, in addition to a variety of events being held. Hikiyama is a type float pulled manually with ropes that is utilized in festivals, and Nagahama’s hikiyama are full of carvings and metal decorations that were common in the Edo period. This has led to the festival being called “The Moving Art Gallery.” On the float stages, “Children’s Kabuki” is performed, and along with the extravagant ornamentation used, the Nagahama Hikiyama Festival is a fine example of Japan’s distinguished and stunning festivals. Children’s Kabuki will take place the evening of the 13th, morning of the 14th, and throughout the 15th and 16th."
+        ],
+        "date": "April 9th–17th",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/nagahama.jpg"
+      },
+      {
+        "title": "Hakata Dontaku",
+        "description": [
+          "Japan's largest festival is held annually in Fukuoka  during a major holiday weekend in May, and attracts 30,000 participants and over two million spectators. While there have been breaks in the past, the festival is said to have originated in 1179 during the Heian period, and has continued for more than 800 years.",
+          "As well as the parades, around 30 stage areas are set up across the city that each host a wide variety of performances, along with food, drink, and game stalls. Watch for Hakata Niwaka. The masks of these comedians were said to originally used to hide the identities of those satirizing the government in open street performances.",
+          "Closing out the two-day festival are rousing renditions of the Dontaku dance that the festival's spectators are invited to participate in. Get involved and dance the night away."
+        ],
+        "date": "May 3rd-4th",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/hakata.jpg"
+      },
+      {
+        "title": "Sanja Matsuri",
+        "description": [
+          "Sanja Matsuri is an annual festival held during a weekend in mid-May at Asakusa Shrine in Asakusa, Tokyo.",
+          "The major event of Sanja Matsuri is the procession of portable mikoshi shrines on the second and third days. On the second day, you can see nearly one hundred mikoshi shrines gathering from surrounding towns, making their way toward Asakusa Shrine. On the third day, three massive mikoshi shrines depart from Asakusa Shrine and are paraded through nearby areas.",
+          "You can see the power and excitement coming from the mikoshi shrine carriers dressed in festival wear during this time.",
+          "Asakusa Shrine is said to have been built nearly 1,400 years ago. Shrines in Japan usually enshrine Japanese gods, but Asakusa Shrine enshrines Hamanari and Takenari Hinokuma, the two brothers who found the holy statue that became the deity enshrined at Sensoji Temple and Nakatomo Hajinoatai, an intellectual of the time who realized the importance of their discovery (*please note there are various versions of this story).",
+          "Therefore, Asakusa Shrine is also referred to as Sanja (three shrines), and the festivities held here are called Sanja Matsuri."
+        ],
+        "date": "May 20th-21st",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/sanja.jpg"
+      },
+      {
+        "title": "Gion Matsuri",
+        "description": [
+          "Gion Matsuri is undoubtedly one of Japan’s most famous and historic festivals. Held annually in Kyoto, this month-long extravaganza in July dates back to the 9th century. The festival’s highlight is the grand procession of elaborately decorated floats, known as Yamaboko Junko, which takes place on the 17th of July. The floats are divided into two types: hoko and yama each featuring intricate carvings, beautiful tapestries, and musicians playing traditional Japanese instruments. Visitors can also enjoy various traditional performing arts throughout the festival, including geisha dances and tea ceremonies."
+        ],
+        "date": "June",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/gion.jpg"
+      },
+      {
+        "title": "Sapporo Summer ",
+        "description": [
+          "Hokkaido’s Sapporo Summer Festival spans from late July to mid-August, offering a huge variety of exciting events and activities. The festival's main attraction is the Odori Beer Garden, where visitors can indulge in ice-cold beer and delicious Hokkaido cuisine under the open sky. The event also features a massive Bon Odori dance celebration, with thousands of participants dancing in unison to traditional Japanese music."
+        ],
+        "date": "July-August",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/sapporosummer.jpg"
+      },
+      {
+        "title": "Aomori Nebuta ",
+        "description": [
+          "Every August, the city of Aomori comes alive with the vibrant Aoomori Nebuta Matsuri. This week-long long event, beginning at the start of August, showcases massive, illuminated floats called nebuta which are paraded through the streets by a team of enthusiastic participants. Each float depicts mythological and historical figures, designed with intricate wireframes and covered in colorful washi paper. The festival culminates in a spectacular fireworks display over Aomori Bay, making it a must-see event for any summer traveler."
+        ],
+        "date": "August",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/aomori.jpg"
+      },
+      {
+        "title": "Gujo Odori",
+        "description": [
+          "Gujo Odori, held in the charming town of Gujo Hachiman in Gifu Prefecture, is a traditional dance festival dating back over 400 years. The event takes place over 31 nights between the months of July and September, with participants donning colorful yukata and dancing through the streets. The most famous nights, called Tetsuya Odori, are all-night dance marathons which are held in mid-August. Visitors can enjoy the serene atmosphere of the town’s canals and historic streets during their visit."
+        ],
+        "date": "July-September",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/odori.jpg"
+      },
 
-        {
-          "title": "Nihonmatsu Lantern",
-          "description": [
-            "One of the top 3 lantern festivals in Japan, the Nihonmatsu Lantern Festival is a sight to behold. First held more than 370 years ago, the festival was created by the lord ruling over the area at the time who wanted to forge a bond with and between the locals through religion by throwing a Shinto festival that everyone could attend. With a feverish passion, 7 tall festival floats lit up with dozens of candles inside red lanterns are carried through the streets of Nihonmatsu, Fukushima Prefecture. The teams of carriers, steerers, and musicians work together to safely run the floats through the streets while enthusiastic onlookers cheer with them. It’s easy to get carried away with them in the contagiously fun atmosphere!"
-          ],
-          "date": "October 7th-9th",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/nihonmatsu.jpg"
-        },
-        {
-          "title": "Nagasaki Kunchi",
-          "description": [
-            "Boasting a lively carnivalesque atmosphere, the Nagasaki Kunchi Festival in Nagasaki prefecture has been celebrating the city’s multicultural history for more than 400 years. There are energetic dances, floats featuring dragons and lions, and Dutch and Chinese ships symbolizing the trade with foreign countries during the Edo period when only people from the Netherlands and China were allowed to trade with Japan. The festival’s focal points are Suwa Shrine, the Otabijo Stage, Yasaka Shrine, and the Kokaidomae Plaza. Be prepared for large crowds as nearly all residents of Nagasaki plus many visitors from other regions flock to this festival every year to join in on the fun."
-          ],
-          "date": "October 7th-9th",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/kunchi.jpg"
-        },
-        {
-          "title": "Karatsu Kunchi",
-          "description": [
-            "Karatsu Kunchi is a festival representative of Saga prefecture. It is held annually on the first week of November, and was designated as an UNESCO Intangible Cultural Heritage. The festival dates back to the late 16th century, and began as a spiritual event at Karatsu Shrine. The main spectacle of Karatsu Kunchi is the 14 hikiyama, or floats, that are made in the shape of animals such as lions and sea breams. The hikiyama are carried throughout the town along to the beat of flutes and drums."
-          ],
-          "date": "November 2th-4th",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/karatsu.jpg"
-        },
-        {
-          "title": "Chichibu Night",
-          "description": [
-            "About two hours away from Tokyo Station is the city of Chichibu, Saitama. Locals know it for the Chichibu Kannon Pilgrimage route, which takes you through Chichibu to visit 34 Kannon temples scattered about the area. It’s also the home to the Chichibu Yomatsuri or Night Festival, a two-day event recognized by UNESCO as intangible cultural heritage.",
-            "Over the two days, Chichibu-jinja Shrine turns into the centerpiece of the festival. The event features various Kasahoko (umbrella floats), food stalls, and a spectacular fireworks show. Chichibu Yomatsuri is recognized as one of Japan’s three most famous float-pulling festivals; the others are Kyoto’s Gion Festival and Hida’s Takayama Festival.",
-            "December 2 plays host to the Yoimiya (festival-eve vigil), where some of the main floats come out and are paraded around town. December 3 is the main festival when all the floats are brought out (including some weighing over 20 tons) and the streets are filled with the joyous sounds of yatai-bayashi, instrumental music accompanied by taiko drums. On top of it all, fireworks will be going off overhead, making this event a must-see for any traveler."
-          ],
-          "date": "December 2th-3th",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/chichibu.jpg"
-        },
-        {
-          "title": "Yokote Snow",
-          "description": [
-            "Next on the list is a 450-year-old festival in Akita’s Yokote City. This kamakura (igloo) festival was initially dedicated to Japan’s deity of water, but it developed into more of a touristy activity to keep up with the times. As the city is home to one of the heaviest snowfall zones in the country, Yokote’s kamakura provide a unique winter festival experience that has made it quite the popular destination.",
-            "Adorning the front of Yokote City Hall and Yokote Park are massive kamakura where guests are served rice cakes and amazake, a fermented rice drink that is generally non-alcoholic or contains very little alcohol.",
-            "Across the grounds of Yokote Minami Elementary School and Janosaki River Beach are rows of miniature kamakura illuminating the dark winter roads with their beautiful light and warmth."
-          ],
-          "date": "February 15th–16th",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/yokote.jpg"
-        },
-        {
-          "title": "Somin-sai",
-          "description": [
-            "This festival is held at the Kokuseki Temple, severe cold snow on the night which hits the seventh day of the lunar new year. There is Misogi that purifies the mind and body and participates wear only Fundoshi (loincloth).",
-            "The origin of this festival is an anecdote in which a poor but kind-hearted man treats God with humans as a gift. The man's name is \"Somin\", and it is a festival in which \"Somin-Bukuro\" contains komagi (small wooden charms with hexagon shapes) which are contested by male offspring.",
-            "Participants must refuse meat, fish, and drinking from one week before the festival. On the day of the event, participants will be cleansed by the frigid river, climbing the piled-up pine trees and purifying themselves by the sparks, and participating in a three-hour battle for the Sumin-Bukuro.",
-            "This ritual, which takes place in the sub-zero and cold snow, leaves a sacred and primitive atmosphere. It is recommended for advanced people who want to touch the essence of a more stoic festival."
-          ],
-          "date": "Late of January to early of February",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/somin.jpg"
-        },
-        {
-          "title": "Sapporo Snow",
-          "description": [
-            "The Sapporo Snow Festival is one of Japan’s biggest events, and by far the most famous festival in the north. Taking over Hokkaido’s capital city for a week each February, it has three sites filled with incredible snow sculptures, light shows and snowy activities, along with plenty of food stalls to keep you fueled. Visitors can admire the intricate creations crafted by teams from around the world, as well as enjoy live performances and interactive elements too.",
-            "The Odori Park and Susukino sites have been used consistently to display sculptures, and after a brief Covid-hiatus, the Tsudome site is making a welcome return in 2024, with snow-activities for all ages.",
-            "Since the festival takes place in the heart of Sapporo, you can see some of the city’s sights at the same time, with the Sapporo Beer Museum, famed clock tower and markets galore, not to mention exploring Sapporo’s incredible food scene."
-          ],
-          "date": "February",
-          "picture": "https://bargamotova.github.io/japanjson/assets/images/sapporo.jpg"
-        }
-      ]
-    },
-    {
-      "id": "3",
-      "name": "ninja",
-      "title": "Secret world of Ninja",
-      "cover": "https://bargamotova.github.io/japanjson/assets/images/ninja@1.jpg",
-      "face": "https://bargamotova.github.io/japanjson/assets/images/ninja@1.jpg",
-      "preface": "The silent, black-clad ninja who spies, sabotages and assassinates—without leaving a trace—remains a popular Japanese character in modern books and films. It has loosely inspired pop-culture phenomena ranging from Teenage Mutant Ninja Turtles to the American Ninja Warrior. But facts about ninja history can be just as elusive as the iconic fighters themselves.",
-      "articles": [
-        "Ninja (忍者, aka shinobi, meaning \"those who act in stealth\") were a type of warrior who specialized in unconventional warfare such as infiltration, sabotage and assassination during the age of the samurai. Ninja employed deception and forgery tactics to take opponents out by surprise. Due to their unorthodox methods, which contradicted the way of the warrior (bushido), the ninja were not credited with the same honor as the samurai.",
-        "The diverse range of skills practiced by the ninja is called ninjutsu - the art of stealth - and includes training in armed combat, weapon techniques, military strategy, meteorology, geometry and breathing synthesis. Ninjutsu was passed down through generations within families or directly from teacher to a selected one or few disciples. This secrecy in part explains why little factual information exists about the ninja, giving rise to lots of stereotyping of them both within and outside of Japan.",
-        "As early as the 11th century, the inhabitants of Iga and Koka gained a reputation for their skills in unconventional warfare. Close to the political center Kyoto, yet distinctly remote due to their rugged terrains, Iga and Koka presented an ideal hideout location for refugees, bandits and losing parties of battles. Many ninja families lived here within autonomously governed communities, developing their martial skills for self defense.",
-        "During the age of the warring states in the 15th and 16th centuries, many warlords would hire the ninja of Iga and Koka as mercenaries for their set of unique skills in facilitating the conquest of castles and victories in battles. These were the heydays of the ninja.",
-        "Once peace was established in the 17th century, the ninja were mainly employed by the Tokugawa Shogunate to spy on the various regional lords and to guard Edo Castle. During these times, the ninja became greatly romanticized in popular culture, such as kabuki, which led to inaccuracies in the common perception of them. The stereotypes were subsequently exported to the West and further developed to entertain audiences there."
-      ],
-      "pictures": [
-        "https://bargamotova.github.io/japanjson/assets/images/ninja@2.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/ninja@3.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/ninja@4.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/ninja@5.jpg"
-      ]
-    },
-    {
-      "id": "4",
-      "name": "samurai",
-      "title": "Brave Samurai",
-      "back": "https://bargamotova.github.io/japanjson/assets/images/samurai@1.jpg",
-      "face": "https://bargamotova.github.io/japanjson/assets/images/samurai@2.jpg",
-      "preface": "The samurai (or bushi) were the warriors of premodern Japan. They later made up the ruling military class which eventually became the highest ranking social caste of the Edo Period (1603-1867). Samurai employed a range of weapons such as bows and arrows, spears and guns, but their main weapon and symbol was the sword.Samurai were supposed to lead their lives according to the ethic code of bushido (the way of the warrior). Strongly Confucian in nature, bushido stressed concepts such as loyalty to one's master, self discipline and respectful, ethical behavior. Many samurai were also drawn to the teachings and practices of Zen Buddhism.",
-      "articles": [
-        "The samurai (or bushi) were the warriors of premodern Japan. They later made up the ruling military class which eventually became the highest ranking social caste of the Edo Period (1603-1867). Samurai employed a range of weapons such as bows and arrows, spears and guns, but their main weapon and symbol was the sword.",
-        "Samurai were supposed to lead their lives according to the ethic code of bushido (\"the way of the warrior\"). Strongly Confucian in nature, bushido stressed concepts such as loyalty to one's master, self discipline and respectful, ethical behavior. Many samurai were also drawn to the teachings and practices of Zen Buddhism.",
-        "The samurai trace their origins to the Heian Period campaigns to subdue the native Emishi people in the Tohoku Region. Around the same time, warriors were increasingly hired by wealthy landowners that had grown independent of the central government and built armies for their own protection.",
-        "The two most powerful of these landowning clans, the Minamoto and Taira, eventually challenged the central government and battled each other for supremacy over the entire country. Minamoto Yoritomo emerged victorious and set up a new military government in 1192, led by the shogun or supreme military commander. The samurai would rule over Japan for most of the next 700 years.",
-        "During the chaotic era of warring states in the 15th and 16th centuries, Japan splintered into dozens of independent states constantly at war with one another. Consequently, warriors were in high demand. It was also the era when ninja, warriors specialized in unconventional warfare, were most active. Many of the famous samurai movies by Kurosawa are set during this time.",
-        "The country was eventually reunited in the late 1500s, and a rigid social caste system was established during the Edo Period that placed the samurai at the top, followed by the farmers, artisans and merchants respectively. During this time, the samurai were forced to live in castle towns, were the only ones allowed to own and carry swords and were paid in rice by their daimyo or feudal lords. Masterless samurai were called ronin and caused minor troubles during the 1600s.",
-        "Relative peace prevailed during the roughly 250 years of the Edo Period. As a result, the importance of martial skills declined, and many samurai became bureaucrats, teachers or artists. Japan's feudal era eventually came to an end in 1868, and the samurai class was abolished a few years afterwards."
-      ],
-      "pictures": [
-        "https://bargamotova.github.io/japanjson/assets/images/samurai@2.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/samurai@3.jpg",
-        "https://bargamotova.github.io/japanjson/assets/images/samurai@4.jpg"
-      ]
-    }
-  ]
-}
+      {
+        "title": "Nihonmatsu Lantern",
+        "description": [
+          "One of the top 3 lantern festivals in Japan, the Nihonmatsu Lantern Festival is a sight to behold. First held more than 370 years ago, the festival was created by the lord ruling over the area at the time who wanted to forge a bond with and between the locals through religion by throwing a Shinto festival that everyone could attend. With a feverish passion, 7 tall festival floats lit up with dozens of candles inside red lanterns are carried through the streets of Nihonmatsu, Fukushima Prefecture. The teams of carriers, steerers, and musicians work together to safely run the floats through the streets while enthusiastic onlookers cheer with them. It’s easy to get carried away with them in the contagiously fun atmosphere!"
+        ],
+        "date": "October 7th-9th",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/nihonmatsu.jpg"
+      },
+      {
+        "title": "Nagasaki Kunchi",
+        "description": [
+          "Boasting a lively carnivalesque atmosphere, the Nagasaki Kunchi Festival in Nagasaki prefecture has been celebrating the city’s multicultural history for more than 400 years. There are energetic dances, floats featuring dragons and lions, and Dutch and Chinese ships symbolizing the trade with foreign countries during the Edo period when only people from the Netherlands and China were allowed to trade with Japan. The festival’s focal points are Suwa Shrine, the Otabijo Stage, Yasaka Shrine, and the Kokaidomae Plaza. Be prepared for large crowds as nearly all residents of Nagasaki plus many visitors from other regions flock to this festival every year to join in on the fun."
+        ],
+        "date": "October 7th-9th",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/kunchi.jpg"
+      },
+      {
+        "title": "Karatsu Kunchi",
+        "description": [
+          "Karatsu Kunchi is a festival representative of Saga prefecture. It is held annually on the first week of November, and was designated as an UNESCO Intangible Cultural Heritage. The festival dates back to the late 16th century, and began as a spiritual event at Karatsu Shrine. The main spectacle of Karatsu Kunchi is the 14 hikiyama, or floats, that are made in the shape of animals such as lions and sea breams. The hikiyama are carried throughout the town along to the beat of flutes and drums."
+        ],
+        "date": "November 2th-4th",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/karatsu.jpg"
+      },
+      {
+        "title": "Chichibu Night",
+        "description": [
+          "About two hours away from Tokyo Station is the city of Chichibu, Saitama. Locals know it for the Chichibu Kannon Pilgrimage route, which takes you through Chichibu to visit 34 Kannon temples scattered about the area. It’s also the home to the Chichibu Yomatsuri or Night Festival, a two-day event recognized by UNESCO as intangible cultural heritage.",
+          "Over the two days, Chichibu-jinja Shrine turns into the centerpiece of the festival. The event features various Kasahoko (umbrella floats), food stalls, and a spectacular fireworks show. Chichibu Yomatsuri is recognized as one of Japan’s three most famous float-pulling festivals; the others are Kyoto’s Gion Festival and Hida’s Takayama Festival.",
+          "December 2 plays host to the Yoimiya (festival-eve vigil), where some of the main floats come out and are paraded around town. December 3 is the main festival when all the floats are brought out (including some weighing over 20 tons) and the streets are filled with the joyous sounds of yatai-bayashi, instrumental music accompanied by taiko drums. On top of it all, fireworks will be going off overhead, making this event a must-see for any traveler."
+        ],
+        "date": "December 2th-3th",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/chichibu.jpg"
+      },
+      {
+        "title": "Yokote Snow",
+        "description": [
+          "Next on the list is a 450-year-old festival in Akita’s Yokote City. This kamakura (igloo) festival was initially dedicated to Japan’s deity of water, but it developed into more of a touristy activity to keep up with the times. As the city is home to one of the heaviest snowfall zones in the country, Yokote’s kamakura provide a unique winter festival experience that has made it quite the popular destination.",
+          "Adorning the front of Yokote City Hall and Yokote Park are massive kamakura where guests are served rice cakes and amazake, a fermented rice drink that is generally non-alcoholic or contains very little alcohol.",
+          "Across the grounds of Yokote Minami Elementary School and Janosaki River Beach are rows of miniature kamakura illuminating the dark winter roads with their beautiful light and warmth."
+        ],
+        "date": "February 15th–16th",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/yokote.jpg"
+      },
+      {
+        "title": "Somin-sai",
+        "description": [
+          "This festival is held at the Kokuseki Temple, severe cold snow on the night which hits the seventh day of the lunar new year. There is Misogi that purifies the mind and body and participates wear only Fundoshi (loincloth).",
+          "The origin of this festival is an anecdote in which a poor but kind-hearted man treats God with humans as a gift. The man's name is \"Somin\", and it is a festival in which \"Somin-Bukuro\" contains komagi (small wooden charms with hexagon shapes) which are contested by male offspring.",
+          "Participants must refuse meat, fish, and drinking from one week before the festival. On the day of the event, participants will be cleansed by the frigid river, climbing the piled-up pine trees and purifying themselves by the sparks, and participating in a three-hour battle for the Sumin-Bukuro.",
+          "This ritual, which takes place in the sub-zero and cold snow, leaves a sacred and primitive atmosphere. It is recommended for advanced people who want to touch the essence of a more stoic festival."
+        ],
+        "date": "Late of January to early of February",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/somin.jpg"
+      },
+      {
+        "title": "Sapporo Snow",
+        "description": [
+          "The Sapporo Snow Festival is one of Japan’s biggest events, and by far the most famous festival in the north. Taking over Hokkaido’s capital city for a week each February, it has three sites filled with incredible snow sculptures, light shows and snowy activities, along with plenty of food stalls to keep you fueled. Visitors can admire the intricate creations crafted by teams from around the world, as well as enjoy live performances and interactive elements too.",
+          "The Odori Park and Susukino sites have been used consistently to display sculptures, and after a brief Covid-hiatus, the Tsudome site is making a welcome return in 2024, with snow-activities for all ages.",
+          "Since the festival takes place in the heart of Sapporo, you can see some of the city’s sights at the same time, with the Sapporo Beer Museum, famed clock tower and markets galore, not to mention exploring Sapporo’s incredible food scene."
+        ],
+        "date": "February",
+        "picture": "https://bargamotova.github.io/japanjson/assets/images/sapporo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "ninja",
+    "title": "Secret world of Ninja",
+    "cover": "https://bargamotova.github.io/japanjson/assets/images/ninja@1.jpg",
+    "face": "https://bargamotova.github.io/japanjson/assets/images/ninja@1.jpg",
+    "preface": "The silent, black-clad ninja who spies, sabotages and assassinates—without leaving a trace—remains a popular Japanese character in modern books and films. It has loosely inspired pop-culture phenomena ranging from Teenage Mutant Ninja Turtles to the American Ninja Warrior. But facts about ninja history can be just as elusive as the iconic fighters themselves.",
+    "articles": [
+      "Ninja (忍者, aka shinobi, meaning \"those who act in stealth\") were a type of warrior who specialized in unconventional warfare such as infiltration, sabotage and assassination during the age of the samurai. Ninja employed deception and forgery tactics to take opponents out by surprise. Due to their unorthodox methods, which contradicted the way of the warrior (bushido), the ninja were not credited with the same honor as the samurai.",
+      "The diverse range of skills practiced by the ninja is called ninjutsu - the art of stealth - and includes training in armed combat, weapon techniques, military strategy, meteorology, geometry and breathing synthesis. Ninjutsu was passed down through generations within families or directly from teacher to a selected one or few disciples. This secrecy in part explains why little factual information exists about the ninja, giving rise to lots of stereotyping of them both within and outside of Japan.",
+      "As early as the 11th century, the inhabitants of Iga and Koka gained a reputation for their skills in unconventional warfare. Close to the political center Kyoto, yet distinctly remote due to their rugged terrains, Iga and Koka presented an ideal hideout location for refugees, bandits and losing parties of battles. Many ninja families lived here within autonomously governed communities, developing their martial skills for self defense.",
+      "During the age of the warring states in the 15th and 16th centuries, many warlords would hire the ninja of Iga and Koka as mercenaries for their set of unique skills in facilitating the conquest of castles and victories in battles. These were the heydays of the ninja.",
+      "Once peace was established in the 17th century, the ninja were mainly employed by the Tokugawa Shogunate to spy on the various regional lords and to guard Edo Castle. During these times, the ninja became greatly romanticized in popular culture, such as kabuki, which led to inaccuracies in the common perception of them. The stereotypes were subsequently exported to the West and further developed to entertain audiences there."
+    ],
+    "pictures": [
+      "https://bargamotova.github.io/japanjson/assets/images/ninja@2.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/ninja@3.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/ninja@4.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/ninja@5.jpg"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "samurai",
+    "title": "Brave Samurai",
+    "back": "https://bargamotova.github.io/japanjson/assets/images/samurai@1.jpg",
+    "face": "https://bargamotova.github.io/japanjson/assets/images/samurai@2.jpg",
+    "preface": "The samurai (or bushi) were the warriors of premodern Japan. They later made up the ruling military class which eventually became the highest ranking social caste of the Edo Period (1603-1867). Samurai employed a range of weapons such as bows and arrows, spears and guns, but their main weapon and symbol was the sword.Samurai were supposed to lead their lives according to the ethic code of bushido (the way of the warrior). Strongly Confucian in nature, bushido stressed concepts such as loyalty to one's master, self discipline and respectful, ethical behavior. Many samurai were also drawn to the teachings and practices of Zen Buddhism.",
+    "articles": [
+      "The samurai (or bushi) were the warriors of premodern Japan. They later made up the ruling military class which eventually became the highest ranking social caste of the Edo Period (1603-1867). Samurai employed a range of weapons such as bows and arrows, spears and guns, but their main weapon and symbol was the sword.",
+      "Samurai were supposed to lead their lives according to the ethic code of bushido (\"the way of the warrior\"). Strongly Confucian in nature, bushido stressed concepts such as loyalty to one's master, self discipline and respectful, ethical behavior. Many samurai were also drawn to the teachings and practices of Zen Buddhism.",
+      "The samurai trace their origins to the Heian Period campaigns to subdue the native Emishi people in the Tohoku Region. Around the same time, warriors were increasingly hired by wealthy landowners that had grown independent of the central government and built armies for their own protection.",
+      "The two most powerful of these landowning clans, the Minamoto and Taira, eventually challenged the central government and battled each other for supremacy over the entire country. Minamoto Yoritomo emerged victorious and set up a new military government in 1192, led by the shogun or supreme military commander. The samurai would rule over Japan for most of the next 700 years.",
+      "During the chaotic era of warring states in the 15th and 16th centuries, Japan splintered into dozens of independent states constantly at war with one another. Consequently, warriors were in high demand. It was also the era when ninja, warriors specialized in unconventional warfare, were most active. Many of the famous samurai movies by Kurosawa are set during this time.",
+      "The country was eventually reunited in the late 1500s, and a rigid social caste system was established during the Edo Period that placed the samurai at the top, followed by the farmers, artisans and merchants respectively. During this time, the samurai were forced to live in castle towns, were the only ones allowed to own and carry swords and were paid in rice by their daimyo or feudal lords. Masterless samurai were called ronin and caused minor troubles during the 1600s.",
+      "Relative peace prevailed during the roughly 250 years of the Edo Period. As a result, the importance of martial skills declined, and many samurai became bureaucrats, teachers or artists. Japan's feudal era eventually came to an end in 1868, and the samurai class was abolished a few years afterwards."
+    ],
+    "pictures": [
+      "https://bargamotova.github.io/japanjson/assets/images/samurai@2.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/samurai@3.jpg",
+      "https://bargamotova.github.io/japanjson/assets/images/samurai@4.jpg"
+    ]
+  }
+]

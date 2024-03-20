@@ -1,7 +1,7 @@
-const apiUrl = 'https://bargamotova.github.io/japanjson/data.json';
+const apiTopicsUrl = 'https://bargamotova.github.io/japanjson/topics.json';
 const topics = [];
 
-fetch(apiUrl)
+fetch(apiTopicsUrl)
   .then((res) => res.json())
   .then((data) => {
     topics.push(data.topics);

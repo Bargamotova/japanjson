@@ -1,4 +1,4 @@
-const apiTopicsUrl = 'https://bargamotova.github.io/japanjson/cities.json';
+const apiTopicsUrl = 'https://bargamotova.github.io/japanjson/topics.json';
 const topics = [];
 
 fetch(apiTopicsUrl)

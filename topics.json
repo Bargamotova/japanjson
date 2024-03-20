@@ -156,7 +156,7 @@
     "name": "festivals",
     "title": "Japanese Festivals",
     "cover": "https://bargamotova.github.io/japanjson/assets/images/danceBg.jpg",
-    "face": "https://bargamotova.github.io/japanjson/assets/images/aomori,.jpg",
+    "face": "https://bargamotova.github.io/japanjson/assets/images/aomori.jpg",
     "preface": "The Japanese word “matsuri” means festival and is derived from “to enshrine.” The focus was usually to offer something to the gods, and these gods are deeply entwined with the origins of Japanese festivals. Although Japanese festivals vary from region to region, every matsuri is a community-wide event and an opportunity to proudly display and preserve local traditions. In the past, the celebrations served as either thanksgiving to the gods for prosperity, or a request to them for a bountiful harvest or to ward away natural disasters. Today, Japan’s festivals enable visitors to witness ancient rituals, performances and lively participation by local residents.",
     "festivals": [
       {

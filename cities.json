@@ -143,20 +143,20 @@
         "id": "6",
         "name": "Toyokawa Inari",
         "address": "1 Toyokawa-chō, Toyokawa, Aichi Prefecture",
-        "picture": "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@1.jpg",
         "description": [
+          "picture": "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@1.jpg",
           "Approximately one and a half hours away from Aichi's bustling capital city, Nagoya, Toyokawa Inari (the Temple of the Fox Gods) is a stunningly serene temple located in the city of Toyokawa in eastern Aichi Prefecture, Japan. Toyokawa Inari is both a spiritual Buddhist temple and a grand Shinto Shrine. It is one of Japan’s Three Inari Temples known for its peaceful atmosphere and home to an abundance of striking fox statues scattered around the temple grounds. A trip to Toyokawa Inari will leave you feeling enlightened and renewed as you are completely immersed in tranquil Japanese nature, history and sacred temples.",
           "Toyokawa Inari is dedicated to the Inari Okami, the god(dess) of fertility, agriculture, food and rice. Visitors will often pray to Inari Okami to bring in a bountiful harvest, good fortune and prosperity in business."
         ],
         "pictures": [
-          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@2.gpg",
-          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@3.gpg",
-          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@4.gpg",
-          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@5.gpg",
-          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@6.gpg",
-          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@7.gpg",
-          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@8.gpg",
-          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@9.gpg"
+          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@2.jpg",
+          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@3.jpg",
+          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@4.jpg",
+          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@5.jpg",
+          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@6.jpg",
+          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@7.jpg",
+          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@8.jpg",
+          "https://bargamotova.github.io/japanjson/assets/images/nagoyaFox@9.jpg"
         ]
       }
     ]

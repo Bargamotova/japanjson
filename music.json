@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "title": "infinite-stars",
+    "author": "Skott Buckley",
+    "url": "https://bargamotova.github.io/japanjson/assets/music/skott-buckley-infinite-stars.mp3"
+  },
+
+  {
+    "id": "2",
+    "title": "Dawn",
+    "author": "Dario Marinelli",
+    "url": "https://bargamotova.github.io/japanjson/assets/music/dawn-dario-marianelli.mp3"
+  },
+
+  {
+    "id": "3",
+    "title": "Time",
+    "author": "Hans Zimmer",
+    "url": "https://bargamotova.github.io/japanjson/assets/music/Hans-Zimmer-Time.mp3"
+  },
+  {
+    "id": "4",
+    "title": "Knowing",
+    "author": "Knowing",
+    "url": "https://bargamotova.github.io/japanjson/assets/music/Knowing.mp3"
+  },
+  {
+    "id": "5",
+    "title": "Claire De Lune",
+    "author": "Claude Debussy",
+    "url": "https://bargamotova.github.io/japanjson/assets/music/Claude-Debussy-Claire-De-Lune.mp3"
+  },
+  {
+    "id": "6",
+    "title": "Nocturne Op.9 No. 2",
+    "author": "Frederic Chopin",
+    "url": "https://bargamotova.github.io/japanjson/assets/music/Frederic-Chopin-nocturne-op-9-no-2.mp3"
+  },
+  {
+    "id": "7",
+    "title": "Piano-Concerto-No.2",
+    "author": "Andante",
+    "url": "https://bargamotova.github.io/japanjson/assets/music/Piano-Concerto-No-2-3rd-Mov-Andante.mp3"
+  },
+  {
+    "id": "8",
+    "title": "Adagio Sostenuto",
+    "author": "Rachmaninoff",
+    "url": "https://bargamotova.github.io/japanjson/assets/music/Rachmaninoff-AdagioSostenuto.mp3"
+  },
+  {
+    "id": "9",
+    "title": "Tennessee",
+    "author": "Hans Zimmer",
+    "url": "https://bargamotova.github.io/japanjson/assets/music/Hans-Zimmer-Tennessee.mp3"
+  }
+]

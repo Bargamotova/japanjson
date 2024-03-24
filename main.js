@@ -1,9 +1,9 @@
-const apiTopicsUrl = 'https://bargamotova.github.io/japanjson/topics.json';
-const topics = [];
+const apiMusicUrl = 'https://bargamotova.github.io/japanjson/music.json';
+const songs = [];
 
-fetch(apiTopicsUrl)
+fetch(apiMusicUrl)
   .then((res) => res.json())
   .then((data) => {
-    topics.push(data);
-    console.log(...topics)
+    songs.push(data);
+    console.log(...songs)
   })

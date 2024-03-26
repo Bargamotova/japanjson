@@ -4,9 +4,8 @@ const songs = [];
 fetch(apiMusicUrl)
   .then((res) => res.json())
   .then((data) => {
-    songs.push(data);
-
-    const one = songs.find(el => el.id === 1)
-    console.log(...songs);
-    console.log(one)
+    songs.push(...data);
+    const first = songs[1]
+    console.log(first.title)
+    console.log(songs)
   })

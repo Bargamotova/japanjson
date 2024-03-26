@@ -1,4 +1,4 @@
-const apiMusicUrl = 'https://bargamotova.github.io/japanjson/music.json';
+const apiMusicUrl = 'https://bargamotova.github.io/japanjson/data/music.json';
 const songs = [];
 
 fetch(apiMusicUrl)

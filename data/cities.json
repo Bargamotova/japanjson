@@ -3,6 +3,7 @@
     "id": "01",
     "name": "Tokyo",
     "back": "https://bargamotova.github.io/japanjson/assets/images/bg@0.jpg",
+    "thumb": "https://bargamotova.github.io/japanjson/assets/images/bg@0sm.jpg",
     "cover": "https://bargamotova.github.io/japanjson/assets/images/tokyo@1.jpg",
     "description": [
       "Tokyo was formerly (until 1868) known as Edo, the name of the small fishing village that existed on the site for centuries. Edo's development into a city did not occur until the Tokugawa period (1603–1867), when it became the capital of the Tokugawa shogunate. During this period, however, the imperial family remained in Kyōto, the ancient imperial capital. With the Meiji Restoration of 1868, which ended the shogunate, the capital was moved to Edo, and the city was renamed Tokyo, meaning \"eastern capital.\" ",
@@ -96,6 +97,7 @@
     "id": "02",
     "name": "Nagoya",
     "back": "https://bargamotova.github.io/japanjson/assets/images/bg@1.jpg",
+    "thumb": "https://bargamotova.github.io/japanjson/assets/images/bg@1sm.jpg",
     "cover": "https://bargamotova.github.io/japanjson/assets/images/nagoya@1.jpg",
     "description": [
       "Located in the center of Japan, Nagoya has been used as a filming location for many TV shows and movies based on Japanese history. Famous warlords such as Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu in the Warring States Period, were all connected to Nagoya. The history left behind from centuries before can still be seen in the temples, shrines, castles, and towns near Nagoya.",
@@ -165,6 +167,7 @@
     "id": "03",
     "name": "Kyoto",
     "back": "https://bargamotova.github.io/japanjson/assets/images/bg@2.jpg",
+    "thumb": "https://bargamotova.github.io/japanjson/assets/images/bg@2sm.jpg",
     "cover": "https://bargamotova.github.io/japanjson/assets/images/kyoto@1.jpg",
     "description": [
       "Surrounded by rich natural beauty, Kyoto is a city with a unique repertoire of compelling culture that has been refined over the past 1,200 years. Many aspects of Japanese culture originate from Kyoto and are deeply rooted in the lives of residents to this day. Tradition lives on through “machiya,” traditional wooden townhouses where residents spend modern lives today, yearly events unique to Kyoto like the famous Gion Matsuri , the culture of Kyoto's Hanamachi district where geisha live and work, and through Jizo statues (statues made of clay, bronze or stone that represent the guardian deity of children and travelers) found throughout the city. ",
@@ -241,6 +244,7 @@
     "id": "04",
     "name": "Osaka",
     "back": "https://bargamotova.github.io/japanjson/assets/images/bg@3.jpg",
+    "thumb": "https://bargamotova.github.io/japanjson/assets/images/bg@3sm.jpg",
     "cover": "https://bargamotova.github.io/japanjson/assets/images/osaka@1.jpg",
     "description": [
       "Osaka is flashy, bright, and bustling. Osaka is at once, both a business center and a mecca of shopping centers and entertainment. Walking around in Osaka means there is never a shortage of things to do. The dazzling lights, shopping malls, delicious restaurants, and lively nightlife awaits you here.",
@@ -296,6 +300,7 @@
     "id": "05",
     "name": "Nara",
     "back": "https://bargamotova.github.io/japanjson/assets/images/bg@4.jpg",
+    "thumb": "https://bargamotova.github.io/japanjson/assets/images/bg@4sm.jpg",
     "cover": "https://bargamotova.github.io/japanjson/assets/images/nara@1.jpg",
     "description": [
       "Nara was Japan’s capital city during the years 710 to 784. Today Nara is the capital city of the Nara Prefecture and one of the most culturally significant cities in Japan with many of its temples and shrines listed as a UNESCO World Heritage Site.",
@@ -350,6 +355,7 @@
     "id": "06",
     "name": "Kobe",
     "back": "https://bargamotova.github.io/japanjson/assets/images/bg@5.jpg",
+    "thumb": "https://bargamotova.github.io/japanjson/assets/images/bg@5sm.jpg",
     "cover": "https://bargamotova.github.io/japanjson/assets/images/kobe@1.jpg",
     "description": [
       "Located between the Rokko mountain range and the Seto inland sea, the historical port city of Kobe has been embracing foreign cultures since the 9th century, giving the city a unique international flavor. Through its port, Kobe became a city of many \"Japan firsts\", and to this day, a strong international influence can be seen in the city though its unique food culture, that includes the world-famous Kobe beef and Nada sake, and an eclectic mix of Japanese and late 19th century Western architecture.",
@@ -426,6 +432,7 @@
     "id": "07",
     "name": "Hakodate",
     "back": "https://bargamotova.github.io/japanjson/assets/images/bg@6.jpg",
+    "thumb": "https://bargamotova.github.io/japanjson/assets/images/bg@6sm.jpg",
     "cover": "https://bargamotova.github.io/japanjson/assets/images/hakodate@1.jpg",
     "description": [
       "Hakodate harbor was one of the first to open up to foreign trade after centuries of isolation and the city’s blend of traditional Japanese and 19th-century Western architecture shows influences from Russia, China and Europe. It’s cosmopolitan history is epitomized by the massive star-shaped Fort Goryokaku – a Western-style citadel turned public park that is one of Hokkaido’s top spots for cherry blossom viewing.",
@@ -474,7 +481,8 @@
   {
     "id": "08",
     "name": "Okinawa",
-    "back": "https://bargamotova.github.io/japanjson/assets/images/bg@7.jpg",
+    "back": "https://bargamotova.github.io/japanjson/assets/images/bg@11.jpg",
+    "thumb": "https://bargamotova.github.io/japanjson/assets/images/bg@11sm.jpg",
     "cover": "https://bargamotova.github.io/japanjson/assets/images/okinawa@1.jpg",
     "description": [
       "Dubbed the “Hawaii of Japan”, the eponymous main island is just one of more than 160 that make up the Okinawa prefecture – an archipelago trailing like a strand of pearls towards Taiwan. Some of the islands are inhabited, simply a slip of untouched white sand lapped by azure seas, while others are scattered with luxury resorts at the edge of pristine dive sites. Others, still, like the far-flung Yaeyama Islands, are thick with jungle, lush mangrove swamps, rivers and waterfalls.",

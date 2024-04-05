@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #222;
+  min-height: 100vh;
+
+}
+
+img {
+  position: absolute;
+  inset: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+
+  display: block;
+
+  min-width: 100%;
+  max-width: 100%;
+  min-height: 100%;
+  max-height: 100%;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.container {
+  display: grid;
+  place-items: center;
+  gap: 20px;
+
+}
+
+.block {
+  width: calc(100vw - (10vw * 2));
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 16 / 12;
+}

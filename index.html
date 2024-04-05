@@ -5,11 +5,55 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <link rel="stylesheet" href="/style/style.css">
 </head>
 
 <body>
   <h1>Hello Data</h1>
- 
+  <div class="container">
+    <!--  атрибут srcset для описания плотности экрана. Атрибут srcset позволяет указать несколько вариантов изображений с разными разрешениями или плотностями пикселей. Браузер выбирает наиболее подходящее изображение на основе плотности пикселей экрана устройства, чтобы загрузить его. -->
+    <!-- DPR -->
+    <div class="block">
+      <img src="/img/cat-360px.jpg" alt="Котик." width="360" height="540"
+        srcset="/img/cat-360px.jpg 1x, /img/cat-720px.jpg 2x, /img/cat-1080px.jpg 3x">
+    </div>
+    <div class="block block_1">
+      <!-- Дескрипторы ширины, высоты и плотности
+          Дескриптор ширины (w — width descriptor) указывает ширину изображения или вьюпорта, для которого предназначено конкретное изображение. Измеряется в пикселях -->
+
+      <img src="/img/small.jpg" srcset="/img/small-640.jpg 600w, /img/medium-1920.jpg 1000w, /img/large-2400.jpg 2000w"
+        alt="Адаптивное изображение.">
+      <!-- Здесь у medium.jpg дескриптор 1.5x, значит, ширина изображения в полтора раза больше ширины вьюпорта. У large.jpg ширина изображения в два раза больше ширины вьюпорта. -->
+    </div>
+    <!-- <div class="block_2"> -->
+    <!-- Дескриптор плотности пикселей (dppx — dots per pixel descriptor) задаёт плотность пикселей изображения или экрана, для которого предназначена конкретная картинка. Он измеряется в пикселях на дюйм (ppi). -->
+    <!-- <img src="/img/sm.jpg" srcset="/img/md.jpg 1.5dppx, /img/lg.jpg 2dppx" alt="Адаптивное изображение"> -->
+    <!-- Дескриптор 1.5dppx означает, что изображение предназначено для устройств с плотностью 1.5 пикселя на дюйм. Изображение large.jpg подойдёт для устройств с плотностью 2 пикселя на дюйм, например, для планшетов, ноутбуков или мониторов с очень высоким разрешением. -->
+    <!-- </div> -->
+    <div class="block block_3">
+      <picture>
+        <source width="(min-width: 1201px)" srcset="/img/lg-2400.jpg">
+        <source width="(min-width: 1200px)" srcset="/img/md-1920.jpg">
+        <source width="(max-width: 768px)" srcset="/img/sm-640.jpg">
+
+        <img src="/img/sm-640.jpg" width="360" height="240" alt="cat">
+    </div>
+    <!-- visually-hidden — его добавляют элементам, которые нужно скрыть в интерфейсе.
+    Её смогут прочитать скринридеры, но не увидят пользователи. Добавлять такие подписи к иконкам — хорошая практика. -->
+    <div class="block dog">
+
+      <img srcset="img/dog@640.jpg 640w,
+      img/dog@920.jpg 920w, 
+      img/dog@1280.jpg 1280w, 
+      img/dog@1600.jpg 1600w, 
+      img/dog@1920.jpg 1920w" sizes="(max-width: 360px) calc(100vw - 40px), 
+     (max-width: 767px) calc(100vw - 60px), 
+     (max-width: 1023px) calc(100vw - 208px), 
+     (max-width: 1279px) calc(100vw - 504px), 
+     (max-width: 1439px) calc(100vw - 640px), 
+     640px" src="img/dog.jpg" alt="Dog" decoding="async" loading="lazy">
+    </div>
+  </div>
 
 </body>
 
